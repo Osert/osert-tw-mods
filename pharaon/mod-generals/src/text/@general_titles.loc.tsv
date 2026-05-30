@@ -1,0 +1,9 @@
+key	text	tooltip
+#Loc;1;text/@general_titles.loc		
+campaign_localised_strings_string_locked_title_ancillary_slot_string_1	This slot will be available at Rank 4.	false
+campaign_localised_strings_string_locked_title_ancillary_slot_string_2	This slot will be available at Rank 8.	false
+campaign_localised_strings_string_locked_title_ancillary_slot_string_3	This slot will be available at Rank 13.	false
+campaign_localised_strings_string_locked_title_ancillary_slot_string_4	This slot will be available at Rank 19.	false
+campaign_localised_strings_string_locked_title_ancillary_slot_string_5	This slot will be available at Rank 26.	false
+campaign_localised_strings_string_locked_title_ancillary_slot_string_6	This slot will be available at Rank 34.	false
+campaign_localised_strings_string_locked_title_ancillary_slot_string_7	This slot will be available at Rank 43.	false

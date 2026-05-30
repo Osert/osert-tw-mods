@@ -1,0 +1,14 @@
+agent_key	ancillary_category	min_character_rank	optional_campaign_key	slot_count
+#character_rank_to_ancillary_category_slot_count_junctions_tables;0;db/character_rank_to_ancillary_category_slot_count_junctions_tables/zzz_general_titles				
+champion	armour	0		1
+champion	armour	16		3
+champion	armour	25		4
+champion	armour	8		2
+general	title	0		1
+general	title	7		3
+general	title	12		4
+general	title	3		2
+general	title	18		5
+general	title	25		6
+general	title	33		7
+general	title	42		8
