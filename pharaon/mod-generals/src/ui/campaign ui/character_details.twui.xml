@@ -648,137 +648,137 @@
 								<top this="DF4607F5-2720-4810-A4477D69A8F95259"/>
 								<bottom this="874FFC95-010F-4AB3-9DFD2545F2C608F1"/>
 							</scrollbar>
-						</details_panel>                        
-						<titles_panel this="164F0A7B-40C4-4BEA-8B4C90E668A889D7">	
-                            <!-- MODDED -->
-                            <list_clip this="5DA16E2D-56F4-4C74-A806-3578EBB5C90F">
-                                <!-- MODDED -->
-                                <list_box this="0353FF45-2484-45A6-9BE6-F0F366B930A0">                                    
-                                    <competences_header this="1E5E848C-7FEE-4601-92C62E8B1B5C4AEF">
-                                        <txt_competences this="A042EFD0-D91B-4A05-BBB5BA02EE9F2D94"/>
-                                        <skill_points this="264AC2D6-D4F4-4428-9A03FCD48C6B38FF">
-                                            <skill_points this="8DAFC4D1-A0E4-463E-9F72F23C9D13775D">
-                                                <skill_points_icon this="1E15B7B6-9D3C-435D-99930738F6A2564B"/>
-                                                <dy_skill_points this="03D12206-797C-4236-90531321B0AC92EB"/>
-                                            </skill_points>
-                                            <button_round_secondary_toggle this="C1C0428E-D61F-4553-B90D5C2EF5592A3E"/>
-                                        </skill_points>
-                                        <faction_skill_points this="B6A04E74-932A-4B4C-A9CDE391AA875455">
-                                            <path_icon this="0DE10649-9779-4569-AEE1624AB9882FB7"/>
-                                            <skill_points this="23D1EF85-7DA4-4D8A-BB0264B0AFABAB37">
-                                                <skill_points_icon this="010B5024-3D16-425C-AAF62DF845E18FBC"/>
-                                                <dy_skill_points this="621B0DCA-33CA-4BF8-B33291C120C792FD"/>
-                                            </skill_points>
-                                        </faction_skill_points>
-                                    </competences_header>
-                                    <competences_list this="2D5385F5-2A9D-4B16-95ED2F6FEA7A4523">
-                                        <authority_competence this="1105B364-1A9D-4227-B60CB7A2FE9AFD79">
-                                            <divider_1 this="59014E3A-5866-463D-9C7A5869144EC5AD"/>
-                                            <authority_icon this="6195C119-1986-4869-A56C036F19582736"/>
-                                            <notification_holder this="0957932B-872E-44C5-A0C4955B683F2B0C">
-                                                <alert_icon this="23A39952-6606-4CED-8D0CEE417BDAFA26">
-                                                    <alert_ring this="2DF925E7-9057-4FF3-94C494A2B5DFDE8A"/>
-                                                    <rays_01 this="E175AD6F-3DF1-425A-96F2D27AE8865C98"/>
-                                                    <rays_02 this="2F888CF2-984D-445F-95DDA05BD49725AB"/>
-                                                    <rays_03 this="3EDFD60B-D50C-4D90-A9C1A44EBA77941F"/>
-                                                    <alert_circle this="72FB5668-8629-4301-AFAC62539451BE69"/>
-                                                </alert_icon>
-                                                <highlight this="72D55D85-B9A4-45EF-8E57851C2744586D"/>
-                                            </notification_holder>
-                                            <button_round_secondary_toggle this="A4D65B3A-05C1-4891-9F7651194A81927D"/>
-                                            <tier_holder this="688B55FF-9C3D-4D7C-A54065478E4DFDAF"/>
-                                        </authority_competence>
-                                        <competence_divider this="229B3AA0-9855-47DB-9795178404C5C88F"/>
-                                        <governance_competence this="866512C9-7861-48C3-A631C8FE8DBA75C6">
-                                            <governance_icon this="9AB4A1B9-5005-4B04-88F204399B06EE69"/>
-                                            <notification_holder this="B1B2A287-526E-4330-86B977B76E1A755E">
-                                                <alert_icon this="5559663E-5795-45FE-8CC2A4BE645BCAFB">
-                                                    <alert_ring this="F044E353-8368-4841-ACFDDC3CBA29C7A0"/>
-                                                    <rays_01 this="E9D89601-1E85-4CF6-90B2671451E0231A"/>
-                                                    <rays_02 this="662755DD-C9E7-4160-A65D83F435B9B9C0"/>
-                                                    <rays_03 this="CE742CBA-62C5-44F0-9D9B3AD171F580F9"/>
-                                                    <alert_circle this="E1EA8212-FB51-4E54-8AE7DB4B77F4C59F"/>
-                                                </alert_icon>
-                                                <highlight this="5B63F90F-8978-4E6D-8ADBE56AA3ECBD7C"/>
-                                            </notification_holder>
-                                            <button_round_secondary_toggle this="3E6B3D9D-603F-42DB-AF9480247320908C"/>
-                                            <tier_holder this="44DE0C2C-C072-4F7E-B9475934268E4F8E"/>
-                                        </governance_competence>
-                                        <competence_divider this="94B63335-57DC-4641-B3F9FEDB04597331"/>
-                                        <zeal_competence this="3C7CEC8B-1ECB-4D06-BF12E2CDEF67867A">
-                                            <zeal_icon this="D5BD1CB3-F383-402E-905D1D4E010F1F52"/>
-                                            <notification_holder this="AAB7954A-C09C-40BE-9BD9DADCA28C66C3">
-                                                <alert_icon this="94B6B0B6-0008-48BE-8365A7B1FBBFFF38">
-                                                    <alert_ring this="D2FA137C-0579-44F3-AFE5615E1CB2A8F9"/>
-                                                    <rays_01 this="38010504-100E-46DF-B35ED2D0D2A06D61"/>
-                                                    <rays_02 this="39274BED-E4D5-49E6-BA2CAC62A9E0B5B0"/>
-                                                    <rays_03 this="AD4D98A9-1093-418F-9AA9D8464E7C204E"/>
-                                                    <alert_circle this="14F213DD-BB09-43A5-BB080CEDA4BE6861"/>
-                                                </alert_icon>
-                                                <highlight this="811748FE-6985-4A00-A8DFDE2F45C03DA7"/>
-                                            </notification_holder>
-                                            <button_round_secondary_toggle this="CBBCC7DF-AC54-42B6-A1EFB632CD51B772"/>
-                                            <tier_holder this="7D39945E-014E-4D31-94640BD867FE36E4">
-                                                <tier_template this="463939DE-0177-4B23-A11FF2FCFC6A11B4">
-                                                    <tier_template_anim this="494F77DE-9318-4559-B1A076CBAED97374"/>
-                                                </tier_template>
-                                            </tier_holder>
-                                            <divider_1 this="E061B793-C3D5-44F6-AFE09FCCEC521241"/>
-                                        </zeal_competence>
-                                    </competences_list>
-                                    <assigned_header this="1B1E711D-05F1-4894-8A00EAFF2751F30F">
-                                        <txt_assigned_titles this="34792355-1DA8-4187-BFB0B77F29A50A93"/>
-                                    </assigned_header>	
-                                    <titles_holder this="B2FAD2B0-9076-4C78-BADB9BB4F93DFB07">
-                                        <titles_list this="5E981D4E-2A27-4083-9E05642245892B60">
-                                            <old_title_template this="CEBE6AEF-D7AF-41D4-8012A7E86A507FD2">
-                                                <cost_holder this="2A2EA017-96BC-4F5B-8B19F60318447643">
-                                                    <title_cost this="CAE21579-F7BC-450F-B62E3A2913A3891E">
-                                                        <icon_competence this="134B186E-B03C-41FE-BCF7FD8FF72041E9"/>
-                                                    </title_cost>
-                                                </cost_holder>
-                                                <ancillary_select_button this="23328A8F-1827-46B8-8725BC0230FACB58"/>
-                                                <button_remove this="56660F94-A296-416F-8F7A5854C702DBBC"/>
-                                            </old_title_template>
-                                            <title_template this="83CFB149-C267-41DF-B8AB3A48DD25A0F7">
-                                                <ancillary_select_button this="7425AAE3-3564-4430-A92B5D1F643EEDB2"/>
-                                                <button_remove this="1D83A2BB-0187-4A60-8783D7EFB822B4E0"/>
-                                                <assigned_tier_holder this="4F388BFB-8142-41B9-9E95120AFAD4185E">
-                                                    <tier_value this="8FEC8467-7449-404F-ACC532A0B06B38CA"/>
-                                                </assigned_tier_holder>
-                                                <cooldown this="845F105E-FED6-4362-93A62372EECF1E27"/>
-                                            </title_template>
-                                        </titles_list>
-                                    </titles_holder>
-                                    <unassigned_titles_holder this="E10A725E-0903-4837-ACDAECF3CCA00267">
-                                        <unassigned_titles_list_view this="89A9A0E5-4993-43E4-9369E0A77311C3D0">                                            
-                                            <template_ancillary_entry this="072876F5-8142-463A-BCC78D1E82B5BD1A">
-                                                <cost_holder this="8CCEAFB9-2077-4143-9A47CD5EE3B54B29">
-                                                    <title_cost this="FE778338-B6DE-418D-A8FF792EDD90EAE9">
-                                                        <icon_competence this="98028740-9050-4201-9CB69BADCC86AC12"/>
-                                                    </title_cost>
-                                                </cost_holder>
-                                                <ancillary_select_button this="ED97E11D-10CE-44B2-8249229E8AD861B2"/>
-                                                <tier_holder this="8646F3CF-53DB-4447-887BCA322E1973CD">
-                                                    <tier_value this="4D365977-FFA4-4F93-946395AAB3BFEBB5"/>
-                                                </tier_holder>
-                                                <title_divider this="C606C7EC-94BD-420D-9747C45514FAE306"/>
-                                            </template_ancillary_entry>                                                
-                                            <copy_of_assigned_header this="60589577-068C-4BCE-A99A595EF8489D09">
-                                                <txt_assigned_titles this="EF30AF3C-A4F8-41B2-A409C13313FC0920"/>
-                                            </copy_of_assigned_header>
-                                        </unassigned_titles_list_view>
-                                    </unassigned_titles_holder>
-                                </list_box>
-                            </list_clip>
-                            <!-- MODDED -->
-                            <scrollbar this="C9733398-E32C-4A46-BC33-ECA9A29BEF92">
-                                <frame_top this="5FC69F09-948E-44DD-AAE8-152C8CD03DDB"/>
-                                <frame_bottom this="942B6376-5320-43B5-9F64-84798B99DB0B"/>
-                                <handle this="7AC4AD3D-37C4-4222-8D30-DD23E9185B80"/>
-                                <top this="792A286C-7A5B-4A11-9B38-70BA0BC4F82D"/>
-                                <bottom this="BFDBE765-3FA9-47B0-B123-26F7AFC77043"/>
-                            </scrollbar>
+						</details_panel>						
+						<titles_panel this="164F0A7B-40C4-4BEA-8B4C90E668A889D7">
+							<!-- MODDED -->
+							<list_clip this="9D3A1216-1D5B-4DC2-862E-0702F6EDDCF7">
+								<!-- MODDED -->
+								<list_box this="FF5786FE-6480-44CF-A5F4-CFA6312E7CA3">
+									<competences_header this="1E5E848C-7FEE-4601-92C62E8B1B5C4AEF">
+										<txt_competences this="A042EFD0-D91B-4A05-BBB5BA02EE9F2D94"/>
+										<skill_points this="264AC2D6-D4F4-4428-9A03FCD48C6B38FF">
+											<skill_points this="8DAFC4D1-A0E4-463E-9F72F23C9D13775D">
+												<skill_points_icon this="1E15B7B6-9D3C-435D-99930738F6A2564B"/>
+												<dy_skill_points this="03D12206-797C-4236-90531321B0AC92EB"/>
+											</skill_points>
+											<button_round_secondary_toggle this="C1C0428E-D61F-4553-B90D5C2EF5592A3E"/>
+										</skill_points>
+										<faction_skill_points this="B6A04E74-932A-4B4C-A9CDE391AA875455">
+											<path_icon this="0DE10649-9779-4569-AEE1624AB9882FB7"/>
+											<skill_points this="23D1EF85-7DA4-4D8A-BB0264B0AFABAB37">
+												<skill_points_icon this="010B5024-3D16-425C-AAF62DF845E18FBC"/>
+												<dy_skill_points this="621B0DCA-33CA-4BF8-B33291C120C792FD"/>
+											</skill_points>
+										</faction_skill_points>
+									</competences_header>
+									<competences_list this="2D5385F5-2A9D-4B16-95ED2F6FEA7A4523">
+										<authority_competence this="1105B364-1A9D-4227-B60CB7A2FE9AFD79">
+											<divider_1 this="59014E3A-5866-463D-9C7A5869144EC5AD"/>
+											<authority_icon this="6195C119-1986-4869-A56C036F19582736"/>
+											<notification_holder this="0957932B-872E-44C5-A0C4955B683F2B0C">
+												<alert_icon this="23A39952-6606-4CED-8D0CEE417BDAFA26">
+													<alert_ring this="2DF925E7-9057-4FF3-94C494A2B5DFDE8A"/>
+													<rays_01 this="E175AD6F-3DF1-425A-96F2D27AE8865C98"/>
+													<rays_02 this="2F888CF2-984D-445F-95DDA05BD49725AB"/>
+													<rays_03 this="3EDFD60B-D50C-4D90-A9C1A44EBA77941F"/>
+													<alert_circle this="72FB5668-8629-4301-AFAC62539451BE69"/>
+												</alert_icon>
+												<highlight this="72D55D85-B9A4-45EF-8E57851C2744586D"/>
+											</notification_holder>
+											<button_round_secondary_toggle this="A4D65B3A-05C1-4891-9F7651194A81927D"/>
+											<tier_holder this="688B55FF-9C3D-4D7C-A54065478E4DFDAF"/>
+										</authority_competence>
+										<competence_divider this="229B3AA0-9855-47DB-9795178404C5C88F"/>
+										<governance_competence this="866512C9-7861-48C3-A631C8FE8DBA75C6">
+											<governance_icon this="9AB4A1B9-5005-4B04-88F204399B06EE69"/>
+											<notification_holder this="B1B2A287-526E-4330-86B977B76E1A755E">
+												<alert_icon this="5559663E-5795-45FE-8CC2A4BE645BCAFB">
+													<alert_ring this="F044E353-8368-4841-ACFDDC3CBA29C7A0"/>
+													<rays_01 this="E9D89601-1E85-4CF6-90B2671451E0231A"/>
+													<rays_02 this="662755DD-C9E7-4160-A65D83F435B9B9C0"/>
+													<rays_03 this="CE742CBA-62C5-44F0-9D9B3AD171F580F9"/>
+													<alert_circle this="E1EA8212-FB51-4E54-8AE7DB4B77F4C59F"/>
+												</alert_icon>
+												<highlight this="5B63F90F-8978-4E6D-8ADBE56AA3ECBD7C"/>
+											</notification_holder>
+											<button_round_secondary_toggle this="3E6B3D9D-603F-42DB-AF9480247320908C"/>
+											<tier_holder this="44DE0C2C-C072-4F7E-B9475934268E4F8E"/>
+										</governance_competence>
+										<competence_divider this="94B63335-57DC-4641-B3F9FEDB04597331"/>
+										<zeal_competence this="3C7CEC8B-1ECB-4D06-BF12E2CDEF67867A">
+											<zeal_icon this="D5BD1CB3-F383-402E-905D1D4E010F1F52"/>
+											<notification_holder this="AAB7954A-C09C-40BE-9BD9DADCA28C66C3">
+												<alert_icon this="94B6B0B6-0008-48BE-8365A7B1FBBFFF38">
+													<alert_ring this="D2FA137C-0579-44F3-AFE5615E1CB2A8F9"/>
+													<rays_01 this="38010504-100E-46DF-B35ED2D0D2A06D61"/>
+													<rays_02 this="39274BED-E4D5-49E6-BA2CAC62A9E0B5B0"/>
+													<rays_03 this="AD4D98A9-1093-418F-9AA9D8464E7C204E"/>
+													<alert_circle this="14F213DD-BB09-43A5-BB080CEDA4BE6861"/>
+												</alert_icon>
+												<highlight this="811748FE-6985-4A00-A8DFDE2F45C03DA7"/>
+											</notification_holder>
+											<button_round_secondary_toggle this="CBBCC7DF-AC54-42B6-A1EFB632CD51B772"/>
+											<tier_holder this="7D39945E-014E-4D31-94640BD867FE36E4">
+												<tier_template this="463939DE-0177-4B23-A11FF2FCFC6A11B4">
+													<tier_template_anim this="494F77DE-9318-4559-B1A076CBAED97374"/>
+												</tier_template>
+											</tier_holder>
+											<divider_1 this="E061B793-C3D5-44F6-AFE09FCCEC521241"/>
+										</zeal_competence>
+									</competences_list>
+									<assigned_header this="1B1E711D-05F1-4894-8A00EAFF2751F30F">
+										<txt_assigned_titles this="34792355-1DA8-4187-BFB0B77F29A50A93"/>
+									</assigned_header>									
+									<titles_holder this="B2FAD2B0-9076-4C78-BADB9BB4F93DFB07">
+										<titles_list this="5E981D4E-2A27-4083-9E05642245892B60">
+											<old_title_template this="CEBE6AEF-D7AF-41D4-8012A7E86A507FD2">
+												<cost_holder this="2A2EA017-96BC-4F5B-8B19F60318447643">
+													<title_cost this="CAE21579-F7BC-450F-B62E3A2913A3891E">
+														<icon_competence this="134B186E-B03C-41FE-BCF7FD8FF72041E9"/>
+													</title_cost>
+												</cost_holder>
+												<!-- <ancillary_select_button this="23328A8F-1827-46B8-8725BC0230FACB58"/> -->
+												<button_remove this="56660F94-A296-416F-8F7A5854C702DBBC"/>
+											</old_title_template>
+											<title_template this="83CFB149-C267-41DF-B8AB3A48DD25A0F7">
+												<!-- <ancillary_select_button this="7425AAE3-3564-4430-A92B5D1F643EEDB2"/> -->
+												<button_remove this="1D83A2BB-0187-4A60-8783D7EFB822B4E0"/>
+												<assigned_tier_holder this="4F388BFB-8142-41B9-9E95120AFAD4185E">
+													<tier_value this="8FEC8467-7449-404F-ACC532A0B06B38CA"/>
+												</assigned_tier_holder>
+												<cooldown this="845F105E-FED6-4362-93A62372EECF1E27"/>
+											</title_template>
+										</titles_list>
+									</titles_holder>															
+									<unassigned_titles_holder this="E10A725E-0903-4837-ACDAECF3CCA00267">
+										<!-- MODDED -->
+										<unassigned_titles_list this="89A9A0E5-4993-43E4-9369E0A77311C3D0">	
+											<list_clip this="BDC82D37-22B8-4E8C-B7AA61AA9215943A">
+												<list_box this="A4F2E700-C557-4B42-8A21FFE96B295F33">
+													<template_ancillary_entry this="072876F5-8142-463A-BCC78D1E82B5BD1A">
+														<cost_holder this="8CCEAFB9-2077-4143-9A47CD5EE3B54B29">
+															<title_cost this="FE778338-B6DE-418D-A8FF792EDD90EAE9">
+																<icon_competence this="98028740-9050-4201-9CB69BADCC86AC12"/>
+															</title_cost>
+														</cost_holder>
+														<!-- <ancillary_select_button this="ED97E11D-10CE-44B2-8249229E8AD861B2"/> -->
+														<tier_holder this="8646F3CF-53DB-4447-887BCA322E1973CD">
+															<tier_value this="4D365977-FFA4-4F93-946395AAB3BFEBB5"/>
+														</tier_holder>
+													</template_ancillary_entry>
+												</list_box>
+											</list_clip>
+										</unassigned_titles_list>
+									</unassigned_titles_holder>
+								</list_box>
+							</list_clip>
+							<scrollbar this="B366892E-9944-4967-A105-C88885FF4112">
+								<!-- <frame_top this="949C23E5-78EB-43AF-BC6A-1DEDD35EC5BB"/> -->
+								<!-- <frame_bottom this="437C7517-F0C8-4C86-9F79-64194E899B48"/> -->
+								<handle this="99A058A5-688B-4186-A7FC-2F8BE25F6757"/>
+								<!-- <top this="BFF62FDE-0827-4D94-9787-36BFF4ED2957"/> -->
+								<!-- <bottom this="B4A1F0C6-B66D-4617-9A81-7DBC458B4026"/> -->
+							</scrollbar>
 						</titles_panel>
 					</sidepanel_info_traits>
 					<rank this="56E6A090-620B-4B82-87B1F9BC5FFDEFF2">
@@ -5838,7 +5838,6 @@
 			this="7425AAE3-3564-4430-A92B5D1F643EEDB2"
 			id="ancillary_select_button"
 			docking="Center"
-			component_anchor_point="0.50,0.50"
 			priority="60"
 			uniqueguid="7425AAE3-3564-4430-A92B5D1F643EEDB2"
 			currentstate="0A6F3069-FDE0-4E22-A9D87BFA5A359255"
@@ -5859,8 +5858,8 @@
 				<active
 					this="0A6F3069-FDE0-4E22-A9D87BFA5A359255"
 					name="active"
-					width="116"
-					height="121"
+					width="100"
+					height="100"
 					soundcategory="UI_GBL_TMP_Square_Medium_Button_Toggle"
 					font_m_size="12"
 					font_m_colour="#B4ADA0FF"
@@ -5879,8 +5878,8 @@
 				<down
 					this="14E2ABF4-CF31-4732-9F2B54EBE589E56A"
 					name="down"
-					width="116"
-					height="121"
+					width="100"
+					height="100"
 					soundcategory="UI_GBL_TMP_Square_Medium_Button_Toggle"
 					font_m_size="12"
 					font_m_colour="#B4ADA0FF"
@@ -5902,8 +5901,8 @@
 				<down_off
 					this="9EA34D7F-E087-4850-BB3D78F93BDD8BDD"
 					name="down_off"
-					width="116"
-					height="121"
+					width="100"
+					height="100"
 					font_m_size="12"
 					font_m_colour="#B4ADA0FF"
 					font_m_leading="0"
@@ -5921,8 +5920,8 @@
 				<hover
 					this="6C46A2FD-7723-48AD-ACC6A2535EF827AD"
 					name="hover"
-					width="116"
-					height="121"
+					width="100"
+					height="100"
 					soundcategory="UI_GBL_TMP_MSO_Medium"
 					font_m_size="12"
 					font_m_colour="#B4ADA0FF"
@@ -5948,8 +5947,8 @@
 				<inactive
 					this="4EF5F0A7-3793-4685-82B153275956889B"
 					name="inactive"
-					width="116"
-					height="121"
+					width="100"
+					height="100"
 					font_m_size="12"
 					font_m_colour="#B4ADA0FF"
 					font_m_leading="0"
@@ -5960,8 +5959,8 @@
 				<selected
 					this="DEB3CE95-C8AE-470D-A9CBCC9377B147D7"
 					name="selected"
-					width="116"
-					height="121"
+					width="100"
+					height="100"
 					font_m_size="12"
 					font_m_colour="#B4ADA0FF"
 					font_m_leading="0"
@@ -5981,8 +5980,8 @@
 				<selected_down
 					this="56FB4EBB-811A-420F-B0AF7FCF82279E78"
 					name="selected_down"
-					width="116"
-					height="121"
+					width="100"
+					height="100"
 					font_m_size="12"
 					font_m_colour="#B4ADA0FF"
 					font_m_leading="0"
@@ -6005,8 +6004,8 @@
 				<selected_down_off
 					this="E8CA9F67-A031-4433-BA37C38657C7B9AE"
 					name="selected_down_off"
-					width="116"
-					height="121"
+					width="100"
+					height="100"
 					font_m_size="12"
 					font_m_colour="#B4ADA0FF"
 					font_m_leading="0"
@@ -6026,8 +6025,8 @@
 				<selected_hover
 					this="C8A183EC-9A86-4061-B8E57B9D689BCD1E"
 					name="selected_hover"
-					width="116"
-					height="121"
+					width="100"
+					height="100"
 					soundcategory="UI_GBL_TMP_MSO_Medium"
 					font_m_size="12"
 					font_m_colour="#B4ADA0FF"
@@ -6053,8 +6052,8 @@
 				<selected_inactive
 					this="A6207A01-2A94-47DB-BF128C81F7B26579"
 					name="selected_inactive"
-					width="116"
-					height="121"
+					width="100"
+					height="100"
 					font_m_size="12"
 					font_m_colour="#B4ADA0FF"
 					font_m_leading="0"
@@ -9148,13 +9147,10 @@
 		<ancillary_select_button
 			this="ED97E11D-10CE-44B2-8249229E8AD861B2"
 			id="ancillary_select_button"
-			offset="0.00,24.00"
-			allowhorizontalresize="false"
-			allowverticalresize="false"
 			docking="Center"
-			component_anchor_point="0.50,0.50"
 			priority="60"
 			soundcategory="UI_Gbl_Btn_Medium"
+			interactive="true"
 			uniqueguid="ED97E11D-10CE-44B2-8249229E8AD861B2"
 			currentstate="8E017AD1-1BFB-454C-82FA04F868224842"
 			defaultstate="8E017AD1-1BFB-454C-82FA04F868224842">
@@ -11995,9 +11991,7 @@
 		<assigned_header
 			this="1B1E711D-05F1-4894-8A00EAFF2751F30F"
 			id="assigned_header"
-			offset="40.00,40.00"
-			allowverticalresize="false"
-			priority="40"
+			priority="46"
 			tooltipslocalised="true"
 			uniqueguid="1B1E711D-05F1-4894-8A00EAFF2751F30F"
 			isrelativeresize="true"
@@ -12013,7 +12007,7 @@
 				<newstate
 					this="FFC14BF1-483F-4F96-BBA35E3892B2FF80"
 					name="NewState"
-					width="458"
+					width="460"
 					height="42"
 					texthbehaviour="Never split"
 					interactive="true"
@@ -12024,8 +12018,9 @@
 							this="5E79E53A-AD58-4DF7-960BC52DF8C6A7EF"
 							uniqueguid="5E79E53A-AD58-4DF7-960BC52DF8C6A7EF"
 							componentimage="1A677F40-0B00-44EF-A54BA00FFC8223CE"
-							width="458"
+							width="460"
 							height="42"
+							dockpoint="Center"
 							margin="0.00,50.00,0.00,50.00"/>
 					</imagemetrics>
 				</newstate>
@@ -12059,8 +12054,8 @@
 				<normal
 					this="61B991D9-FADB-4017-A0363E9D9F3300FC"
 					name="normal"
-					width="115"
-					height="119"
+					width="100"
+					height="100"
 					texthbehaviour="Never split"
 					uniqueguid="61B991D9-FADB-4017-A0363E9D9F3300FC">
 					<imagemetrics>
@@ -12068,17 +12063,16 @@
 							this="D890603C-0778-4E1F-A27708BE61C4FC70"
 							uniqueguid="D890603C-0778-4E1F-A27708BE61C4FC70"
 							componentimage="B58331FD-AFE1-420B-B71B05019F9EA7A4"
-							width="115"
-							height="119"
+							width="100"
+							height="100"
 							canresizeheight="false"
 							canresizewidth="false"/>
 						<image
 							this="0B348FF1-30AA-4EE8-8176B059619F3DC2"
 							uniqueguid="0B348FF1-30AA-4EE8-8176B059619F3DC2"
 							componentimage="5492A885-59F3-4543-BBDEB2C60BD9F3C5"
-							offset="31.00,33.00"
-							width="52"
-							height="53"
+							width="50"
+							height="50"
 							colour="#FFFFFF00"
 							dockpoint="Center"
 							canresizeheight="false"
@@ -12088,8 +12082,8 @@
 				<prince
 					this="F6BAD851-9798-425E-8B5BB0905885C7F4"
 					name="prince"
-					width="115"
-					height="119"
+					width="100"
+					height="100"
 					texthbehaviour="Never split"
 					uniqueguid="F6BAD851-9798-425E-8B5BB0905885C7F4">
 					<imagemetrics>
@@ -12097,17 +12091,16 @@
 							this="D85ECA95-FE1D-4313-8B79136B6474446F"
 							uniqueguid="D85ECA95-FE1D-4313-8B79136B6474446F"
 							componentimage="9AD9A329-452A-4879-B02D3FCEF91C4956"
-							width="115"
-							height="119"
+							width="100"
+							height="100"
 							canresizeheight="false"
 							canresizewidth="false"/>
 						<image
 							this="32E26A1A-2644-45D2-995DA3ED13FE2817"
 							uniqueguid="32E26A1A-2644-45D2-995DA3ED13FE2817"
 							componentimage="5492A885-59F3-4543-BBDEB2C60BD9F3C5"
-							offset="31.00,33.00"
-							width="52"
-							height="53"
+							width="50"
+							height="50"
 							colour="#FFFFFF00"
 							dockpoint="Center"
 							canresizeheight="false"
@@ -12119,7 +12112,6 @@
 		<authority_competence
 			this="1105B364-1A9D-4227-B60CB7A2FE9AFD79"
 			id="authority_competence"
-			offset="0.00,5.00"
 			priority="40"
 			uniqueguid="1105B364-1A9D-4227-B60CB7A2FE9AFD79"
 			currentstate="F5E6B976-A35D-4119-82C4B9632E7932BC"
@@ -12128,7 +12120,7 @@
 				<acquired
 					this="F5E6B976-A35D-4119-82C4B9632E7932BC"
 					name="acquired"
-					width="458"
+					width="460"
 					height="48"
 					texthbehaviour="Never split"
 					interactive="true"
@@ -12141,7 +12133,7 @@
 				<acquired_hover
 					this="12368BD7-AD3C-4BAF-AF42CC2C4773CEAC"
 					name="acquired_hover"
-					width="458"
+					width="460"
 					height="48"
 					texthbehaviour="Never split"
 					interactive="true"
@@ -12158,9 +12150,7 @@
 		<authority_icon
 			this="6195C119-1986-4869-A56C036F19582736"
 			id="authority_icon"
-			offset="0.00,9.00"
 			docking="Center Left"
-			component_anchor_point="0.00,0.50"
 			priority="40"
 			tooltipslocalised="true"
 			uniqueguid="6195C119-1986-4869-A56C036F19582736"
@@ -13943,91 +13933,6 @@
 				<component_image_uniqueguid
 					name="ui\skins\default\scroll_icon_dawn_inactive.png"
 					uniqueguid="66BAA6E9-EF58-4DE4-B51E7CC6167E3A3F"/>
-			</component_image_uniqueguids>
-			<callbacks_with_context>
-				<callback_with_context callback_id="SliderIncrementButton"/>
-			</callbacks_with_context>
-			<user_properties>
-				<property
-					name="stepSize"
-					value="10"/>
-				<property
-					name="update_frequency_ms"
-					value="200"/>
-			</user_properties>
-			<localised_texts>
-				<localised_text/>
-				<localised_text state="active"/>
-				<localised_text state="down"/>
-				<localised_text state="down_off"/>
-				<localised_text state="hover"/>
-				<localised_text state="inactive"/>
-			</localised_texts>
-			<override_images>
-				<element value="ui\skins\default\scrollbar_button_plate_active.png"/>
-				<element value="ui\skins\default\scrollbar_button_plate_hover.png"/>
-				<element value="ui\skins\default\scrollbar_button_plate_inactive.png"/>
-				<element value="ui\skins\default\scrollbar_button_plate_pressed.png"/>
-				<element value="ui\skins\default\scrollbar_button_plate_underlay.png"/>
-				<element value="ui\skins\default\scroll_icon_dawn_active.png"/>
-				<element value="ui\skins\default\scroll_icon_dawn_hover.png"/>
-				<element value="ui\skins\default\scroll_icon_dawn_inactive.png"/>
-			</override_images>
-		</bottom>
-		<bottom
-			this="D00829CE-26B2-4CB5-B4357B72C10D6436"
-			id="bottom"
-			part_of_template="true"
-			uniqueguid_in_template="E03D19EF-3D1B-4E8A-9E586679C5A66ABD"
-			uniqueguid="D00829CE-26B2-4CB5-B4357B72C10D6436"
-			dimensions="22.00,22.00"
-			dock_point="Bottom Center External"
-			is_visible="false"
-			offset="0.00,1.00"
-			priority="61"
-			sound_category="UI_GBL_TMP_Slider_Arrows_Down">
-			<state_uniqueguids>
-				<state_uniqueguid
-					name="active"
-					uniqueguid="F1FCF557-BAA1-43FC-B367F093EA4A32D8"/>
-				<state_uniqueguid
-					name="down"
-					uniqueguid="91F0E35D-DC13-41B0-A37F1489C2AD9EDA"/>
-				<state_uniqueguid
-					name="down_off"
-					uniqueguid="9446B662-2461-4832-AB834362FF697503"/>
-				<state_uniqueguid
-					name="hover"
-					uniqueguid="929D012D-72FE-4A28-A164A20DD748542B"/>
-				<state_uniqueguid
-					name="inactive"
-					uniqueguid="95486FAD-D498-4062-894F9F56ABAF98CE"/>
-			</state_uniqueguids>
-			<component_image_uniqueguids>
-				<component_image_uniqueguid
-					name="ui\skins\default\scrollbar_button_plate_active.png"
-					uniqueguid="CA63BE6E-DF34-4558-9B46C2EBB414F658"/>
-				<component_image_uniqueguid
-					name="ui\skins\default\scrollbar_button_plate_hover.png"
-					uniqueguid="899CEE9C-3A8F-465A-999AA093475C13D5"/>
-				<component_image_uniqueguid
-					name="ui\skins\default\scrollbar_button_plate_inactive.png"
-					uniqueguid="0068BEF1-D50C-4B0D-812F38CAEE3B3CB6"/>
-				<component_image_uniqueguid
-					name="ui\skins\default\scrollbar_button_plate_pressed.png"
-					uniqueguid="19C501F7-7751-49D6-8A069F38706DAB9F"/>
-				<component_image_uniqueguid
-					name="ui\skins\default\scrollbar_button_plate_underlay.png"
-					uniqueguid="4F2F5705-D623-4629-B347A342D4ED48E1"/>
-				<component_image_uniqueguid
-					name="ui\skins\default\scroll_icon_dawn_active.png"
-					uniqueguid="BA56C583-BD55-49A8-80D18815ABC30F9D"/>
-				<component_image_uniqueguid
-					name="ui\skins\default\scroll_icon_dawn_hover.png"
-					uniqueguid="BF2E27CC-B27A-4D9D-8771E7A6815A2B6F"/>
-				<component_image_uniqueguid
-					name="ui\skins\default\scroll_icon_dawn_inactive.png"
-					uniqueguid="96857059-2416-4682-BD36DE888B15A6F2"/>
 			</component_image_uniqueguids>
 			<callbacks_with_context>
 				<callback_with_context callback_id="SliderIncrementButton"/>
@@ -16480,7 +16385,6 @@
 			uniqueguid="1D83A2BB-0187-4A60-8783D7EFB822B4E0"
 			dimensions="26.00,26.00"
 			dock_point="Top Right"
-			offset="-11.00,6.00"
 			priority="40"
 			sound_category="UI_Gbl_Btn_Tiny">
 			<state_uniqueguids>
@@ -24714,9 +24618,7 @@
 		<competences_header
 			this="1E5E848C-7FEE-4601-92C62E8B1B5C4AEF"
 			id="competences_header"
-			offset="40.00,216.00"
-			allowverticalresize="false"
-			priority="40"
+			priority="46"
 			tooltipslocalised="true"
 			uniqueguid="1E5E848C-7FEE-4601-92C62E8B1B5C4AEF"
 			isrelativeresize="true"
@@ -24727,16 +24629,12 @@
 					this="BE3F8DF0-1DE4-4ABD-85DFBCC738B08E7E"
 					uniqueguid="BE3F8DF0-1DE4-4ABD-85DFBCC738B08E7E"
 					imagepath="ui/skins/default/ornaments/header_nameplate_parchament.png"/>
-				<component_image
-					this="AEBA60B2-6365-4DF0-83A71D51F867DB50"
-					uniqueguid="AEBA60B2-6365-4DF0-83A71D51F867DB50"
-					imagepath="ui/skins/default/ornaments/header_nameplate_parchament_test.png"/>
 			</componentimages>
 			<states>
 				<newstate
 					this="162C1162-44EF-4257-91BA1A71ED20B9B2"
 					name="NewState"
-					width="458"
+					width="460"
 					height="42"
 					texthbehaviour="Never split"
 					interactive="true"
@@ -24744,19 +24642,12 @@
 					uniqueguid="162C1162-44EF-4257-91BA1A71ED20B9B2">
 					<imagemetrics>
 						<image
-							this="4684CCB7-20BA-4D8F-8C7B24E9AF287A21"
-							uniqueguid="4684CCB7-20BA-4D8F-8C7B24E9AF287A21"
-							componentimage="AEBA60B2-6365-4DF0-83A71D51F867DB50"
-							width="458"
-							height="42"
-							colour="#FFFFFF00"
-							margin="0.00,50.00,0.00,50.00"/>
-						<image
 							this="469C9A84-092C-46CF-9E2D304A557F238E"
 							uniqueguid="469C9A84-092C-46CF-9E2D304A557F238E"
 							componentimage="BE3F8DF0-1DE4-4ABD-85DFBCC738B08E7E"
-							width="458"
+							width="460"
 							height="42"
+							dockpoint="Center"
 							margin="0.00,50.00,0.00,50.00"/>
 					</imagemetrics>
 				</newstate>
@@ -24765,7 +24656,6 @@
 		<competences_list
 			this="2D5385F5-2A9D-4B16-95ED2F6FEA7A4523"
 			id="competences_list"
-			offset="40.00,264.00"
 			priority="40"
 			tooltipslocalised="true"
 			uniqueguid="2D5385F5-2A9D-4B16-95ED2F6FEA7A4523"
@@ -24775,7 +24665,7 @@
 				<default
 					this="E197EAC8-044E-4279-A7175A599972BA22"
 					name="default"
-					width="466"
+					width="460"
 					height="169"
 					texthbehaviour="Never split"
 					uniqueguid="E197EAC8-044E-4279-A7175A599972BA22"/>
@@ -24783,8 +24673,7 @@
 			<LayoutEngine
 				type="List"
 				spacing="2.00,1.00"
-				sizetocontent="true"
-				margins="5.00,13.00">
+				sizetocontent="true">
 				<columnwidths>
 					<column width="460"/>
 				</columnwidths>
@@ -24793,7 +24682,6 @@
 		<competence_divider
 			this="94B63335-57DC-4641-B3F9FEDB04597331"
 			id="competence_divider"
-			offset="0.00,105.00"
 			priority="40"
 			tooltipslocalised="true"
 			uniqueguid="94B63335-57DC-4641-B3F9FEDB04597331"
@@ -24809,7 +24697,7 @@
 				<default
 					this="EA5BA714-F6E9-4043-9024B7B5BA7F68AD"
 					name="default"
-					width="466"
+					width="460"
 					height="1"
 					texthbehaviour="Never split"
 					uniqueguid="EA5BA714-F6E9-4043-9024B7B5BA7F68AD">
@@ -24818,7 +24706,7 @@
 							this="4888248F-656E-4E05-83439B078C628319"
 							uniqueguid="4888248F-656E-4E05-83439B078C628319"
 							componentimage="2B5DBFFB-4644-4022-B1B4A457CC087AFB"
-							width="466"
+							width="460"
 							height="1"
 							canresizeheight="false"
 							canresizewidth="false"/>
@@ -24829,7 +24717,6 @@
 		<competence_divider
 			this="229B3AA0-9855-47DB-9795178404C5C88F"
 			id="competence_divider"
-			offset="0.00,54.00"
 			priority="40"
 			tooltipslocalised="true"
 			uniqueguid="229B3AA0-9855-47DB-9795178404C5C88F"
@@ -24845,7 +24732,7 @@
 				<default
 					this="7C0BAD51-0957-44F1-BE0904A270C13563"
 					name="default"
-					width="466"
+					width="460"
 					height="1"
 					texthbehaviour="Never split"
 					uniqueguid="7C0BAD51-0957-44F1-BE0904A270C13563">
@@ -24854,7 +24741,7 @@
 							this="74ACD509-98E2-4F6C-B2C7E38DEC84F54D"
 							uniqueguid="74ACD509-98E2-4F6C-B2C7E38DEC84F54D"
 							componentimage="F04FAEA6-6D3A-436D-B53B8802EBC6EE6D"
-							width="466"
+							width="460"
 							height="1"
 							canresizeheight="false"
 							canresizewidth="false"/>
@@ -25097,11 +24984,9 @@
 			this="845F105E-FED6-4362-93A62372EECF1E27"
 			id="cooldown"
 			uniqueguid_in_template="845F105E-FED6-4362-93A62372EECF1E27"
-			offset="35.00,0.00"
 			allowverticalresize="false"
 			visible="false"
 			docking="Top Center"
-			component_anchor_point="0.50,0.00"
 			priority="40"
 			uniqueguid="845F105E-FED6-4362-93A62372EECF1E27"
 			currentstate="349B15F7-4206-4E07-BB3F878876CFEE17"
@@ -32354,35 +32239,7 @@
 			<override_images>
 				<element value="ui\skins\default\panel_slider_vertical_bottom.png"/>
 			</override_images>
-		</frame_bottom>
-		<frame_bottom
-			this="E060EE71-C758-4C13-9EC3B7CF6BFBA5B0"
-			id="frame_bottom"
-			part_of_template="true"
-			uniqueguid_in_template="E739123B-C001-4EAD-BF6BA31C8995498D"
-			uniqueguid="E060EE71-C758-4C13-9EC3B7CF6BFBA5B0"
-			dimensions="26.00,34.00"
-			dock_point="Bottom Center External"
-			is_visible="false"
-			priority="61">
-			<state_uniqueguids>
-				<state_uniqueguid
-					name="NewState"
-					uniqueguid="89A6D5DE-4188-4AF6-AFD8F48766620AE0"/>
-			</state_uniqueguids>
-			<component_image_uniqueguids>
-				<component_image_uniqueguid
-					name="ui\skins\default\panel_slider_vertical_bottom.png"
-					uniqueguid="521D58EB-3F5E-47EB-83455A51677027F2"/>
-			</component_image_uniqueguids>
-			<localised_texts>
-				<localised_text/>
-				<localised_text state="NewState"/>
-			</localised_texts>
-			<override_images>
-				<element value="ui\skins\default\panel_slider_vertical_bottom.png"/>
-			</override_images>
-		</frame_bottom>
+		</frame_bottom>		
 		<frame_bottom
 			this="E472FA5D-144D-48A5-ADD0833053670013"
 			id="frame_bottom"
@@ -32734,34 +32591,6 @@
 			</override_images>
 		</frame_top>
 		<frame_top
-			this="E627C65C-0C32-4F2B-BADECBEB620FC45A"
-			id="frame_top"
-			part_of_template="true"
-			uniqueguid_in_template="F6B49551-B987-4FE4-A322073650CEF173"
-			uniqueguid="E627C65C-0C32-4F2B-BADECBEB620FC45A"
-			dimensions="26.00,34.00"
-			dock_point="Top Center External"
-			is_visible="false"
-			priority="61">
-			<state_uniqueguids>
-				<state_uniqueguid
-					name="NewState"
-					uniqueguid="3791CD11-A532-4EB6-AF990F6571115F18"/>
-			</state_uniqueguids>
-			<component_image_uniqueguids>
-				<component_image_uniqueguid
-					name="ui\skins\default\panel_slider_vertical_top.png"
-					uniqueguid="71BCE86B-7DA9-46AB-90D936EE9C0D477A"/>
-			</component_image_uniqueguids>
-			<localised_texts>
-				<localised_text/>
-				<localised_text state="NewState"/>
-			</localised_texts>
-			<override_images>
-				<element value="ui\skins\default\panel_slider_vertical_top.png"/>
-			</override_images>
-		</frame_top>
-		<frame_top
 			this="1A55C54F-40CA-4560-AD430283E1E6FC4D"
 			id="frame_top"
 			part_of_template="true"
@@ -32815,7 +32644,7 @@
 			<override_images>
 				<element value="ui\skins\default\panel_slider_vertical_top.png"/>
 			</override_images>
-		</frame_top>    
+		</frame_top>
 		<general_selection_panel
 			this="17353777-5853-41A5-9D450E35B784AE8E"
 			id="general_selection_panel"
@@ -33539,77 +33368,7 @@
 				<element value="ui\skins\default\pl_scrollbar_slider_vertical_a.png"/>
 				<element value="ui\skins\default\pl_scrollbar_slider_vertical_h.png"/>
 			</override_images>
-		</handle>
-		<handle
-			this="1E024051-ACBC-444A-8E70FBEA67CAE54A"
-			id="handle"
-			part_of_template="true"
-			uniqueguid_in_template="3C2E3333-366D-443D-BB2376CC03C3CE6F"
-			uniqueguid="1E024051-ACBC-444A-8E70FBEA67CAE54A"
-			dimensions="18.00,80.00"
-			offset="4.00,4.00"
-			priority="61"
-			sound_category="UI_GBL_TMP_Slider_Handle">
-			<state_uniqueguids>
-				<state_uniqueguid
-					name="active"
-					uniqueguid="6E042A72-2CBA-4610-B9E203AF5F635CC2"/>
-				<state_uniqueguid
-					name="down_off"
-					uniqueguid="B69613D0-94DB-494A-845B91DF2F7E67DC"/>
-				<state_uniqueguid
-					name="hover"
-					uniqueguid="82DA2556-88A8-41DC-993CF3409284CFED"/>
-				<state_uniqueguid
-					name="inactive"
-					uniqueguid="94420056-8BF9-490A-8DFB8CB7D3CEBC2F"/>
-			</state_uniqueguids>
-			<component_image_uniqueguids>
-				<component_image_uniqueguid
-					name="ui\skins\default\components\scrollbar\scrollbar_handle.png"
-					uniqueguid="3FD156A9-2880-4FE4-983A960C87A9D149"/>
-				<component_image_uniqueguid
-					name="ui\skins\default\components\scrollbar\scrollbar_handle_hover.png"
-					uniqueguid="95F72B3A-A74A-4A4F-BB84F962E0CE3191"/>
-				<component_image_uniqueguid
-					name="ui\skins\default\components\scrollbar\scrollbar_handle.png"
-					uniqueguid="3FD156A9-2880-4FE4-983A960C87A9D149"/>
-				<component_image_uniqueguid
-					name="ui\skins\default\components\scrollbar\scrollbar_bug.png"
-					uniqueguid="CD0BEFE2-B77B-47D6-B417C53A5109AB11"/>
-				<component_image_uniqueguid
-					name="ui\skins\default\components\scrollbar\scrollbar_bug_hover.png"
-					uniqueguid="3F622CCB-4B46-49D6-B73A5F3BB85F8856"/>
-			</component_image_uniqueguids>
-			<callbacks_with_context>
-				<callback_with_context callback_id="VSliderHandle"/>
-			</callbacks_with_context>
-			<user_properties>
-				<property
-					name="disable_override"
-					value="position"/>
-				<property
-					name="disable_override1"
-					value="instance_resize"/>
-				<property
-					name="min_size"
-					value="40"/>
-			</user_properties>
-			<localised_texts>
-				<localised_text/>
-				<localised_text state="active"/>
-				<localised_text state="down_off"/>
-				<localised_text state="hover"/>
-				<localised_text state="inactive"/>
-			</localised_texts>
-			<override_images>
-				<element value="ui\skins\default\components\scrollbar\scrollbar_handle.png"/>
-				<element value="ui\skins\default\components\scrollbar\scrollbar_handle_hover.png"/>
-				<element value="ui\skins\default\components\scrollbar\scrollbar_handle.png"/>
-				<element value="ui\skins\default\components\scrollbar\scrollbar_bug.png"/>
-				<element value="ui\skins\default\components\scrollbar\scrollbar_bug_hover.png"/>
-			</override_images>
-		</handle>
+		</handle>		
 		<handle
 			this="3B0F0A4D-C446-4ED1-8B13E436AD7ADFF1"
 			id="handle"
@@ -33831,10 +33590,8 @@
 							this="CE3F3D31-DAE1-4AB9-BA38C8F5CE58602B"
 							uniqueguid="CE3F3D31-DAE1-4AB9-BA38C8F5CE58602B"
 							componentimage="E8CECAFC-6847-42DB-92249640DE94938C"
-							offset="0.00,-1.00"
 							width="458"
 							height="46"
-							colour="#FFFFFFC8"
 							dockpoint="Center"
 							margin="0.00,50.00,0.00,50.00"/>
 					</imagemetrics>
@@ -38462,42 +38219,7 @@
 			<LayoutEngine
 				type="HorizontalList"
 				spacing="10.00,0.00"/>
-		</list_box>
-		<list_box
-			this="A4F2E700-C557-4B42-8A21FFE96B295F33"
-			id="list_box"
-			offset="10.00,4.00"
-			allowhorizontalresize="false"
-			docking="Top Center"
-			dock_offset="0.00,4.00"
-			component_anchor_point="0.50,0.00"
-			priority="40"
-			tooltipslocalised="true"
-			uniqueguid="A4F2E700-C557-4B42-8A21FFE96B295F33"
-			currentstate="216F99DB-07F1-44F4-AD3DB6F642CC6425"
-			defaultstate="216F99DB-07F1-44F4-AD3DB6F642CC6425">
-			<callbackwithcontextlist>
-				<callback_with_context callback_id="List"/>
-			</callbackwithcontextlist>
-			<states>
-				<newstate
-					this="216F99DB-07F1-44F4-AD3DB6F642CC6425"
-					name="NewState"
-					width="458"
-					height="349"
-					texthbehaviour="Never split"
-					interactive="true"
-					uniqueguid="216F99DB-07F1-44F4-AD3DB6F642CC6425"/>
-			</states>
-			<LayoutEngine
-				type="List"
-				spacing="12.00,6.00"
-				itemsperrow="5">
-				<columnwidths>
-					<column width="150"/>
-				</columnwidths>
-			</LayoutEngine>
-		</list_box>
+		</list_box>		
 		<list_box
 			this="C38C401C-E0BF-41DC-A3F2DC20A754FF28"
 			id="list_box"
@@ -38806,28 +38528,7 @@
 					interactive="true"
 					uniqueguid="DE77A36C-B797-451C-A97B791ABA46DDE0"/>
 			</states>
-		</list_clip>
-		<list_clip
-			this="BDC82D37-22B8-4E8C-B7AA61AA9215943A"
-			id="list_clip"
-			offset="-18.00,0.00"
-			clipchildren="true"
-			priority="40"
-			tooltipslocalised="true"
-			uniqueguid="BDC82D37-22B8-4E8C-B7AA61AA9215943A"
-			currentstate="7D0F1E4F-EEDF-4EC9-B3BF9C0633596014"
-			defaultstate="7D0F1E4F-EEDF-4EC9-B3BF9C0633596014">
-			<states>
-				<newstate
-					this="7D0F1E4F-EEDF-4EC9-B3BF9C0633596014"
-					name="NewState"
-					width="478"
-					height="357"
-					texthbehaviour="Never split"
-					interactive="true"
-					uniqueguid="7D0F1E4F-EEDF-4EC9-B3BF9C0633596014"/>
-			</states>
-		</list_clip>
+		</list_clip>		
 		<list_clip
 			this="D65238C1-3A81-43B9-B46EBCBE473E04DC"
 			id="list_clip"
@@ -45033,64 +44734,7 @@
 					uniqueguid="FC5DF622-DA87-46C3-B75F4C182039ADE9"/>
 			</states>
 		</row_template>
-		<scrollbar
-			this="480F3922-5B55-4AFA-B2238B3EBE0F1801"
-			id="scrollbar"
-			template_id="scrollbar"
-			part_of_template="true"
-			uniqueguid_in_template="C0D9B934-DB7D-4A12-9D5453C2601FAE7A"
-			uniqueguid="480F3922-5B55-4AFA-B2238B3EBE0F1801"
-			dimensions="26.00,343.00"
-			dock_point="Right External Top Align"
-			priority="61">
-			<state_uniqueguids>
-				<state_uniqueguid
-					name="active"
-					uniqueguid="D8A07F97-7535-49AC-8A90D3206263E771"/>
-				<state_uniqueguid
-					name="inactive"
-					uniqueguid="1E6B1602-37E2-400F-8FD80A63BC9B9E75"/>
-			</state_uniqueguids>
-			<component_image_uniqueguids>
-				<component_image_uniqueguid
-					name="ui\skins\default\components\scrollbar\scrollbar_base.png"
-					uniqueguid="3DC0F3A1-44F7-44B0-BE0A4D59ADB76CB0"/>
-			</component_image_uniqueguids>
-			<callbacks_with_context>
-				<callback_with_context callback_id="VSlider"/>
-			</callbacks_with_context>
-			<user_properties>
-				<property
-					name="Inverted"
-					value="0"/>
-				<property
-					name="Notify"
-					value=""/>
-				<property
-					name="Value"
-					value="0"/>
-				<property
-					name="maxValue"
-					value="100"/>
-				<property
-					name="minValue"
-					value="0"/>
-				<property
-					name="step_size"
-					value="20"/>
-				<property
-					name="constant_step_size"
-					value=""/>
-			</user_properties>
-			<localised_texts>
-				<localised_text/>
-				<localised_text state="active"/>
-				<localised_text state="inactive"/>
-			</localised_texts>
-			<override_images>
-				<element value="ui\skins\default\components\scrollbar\scrollbar_base.png"/>
-			</override_images>
-		</scrollbar>
+		
 		<scrollbar
 			this="7CF8F105-F5B7-4C35-AC521A271481D1C3"
 			id="scrollbar"
@@ -45313,7 +44957,7 @@
 			<override_images>
 				<element value="ui\skins\default\components\scrollbar\scrollbar_base.png"/>
 			</override_images>
-		</scrollbar>  
+		</scrollbar>
 		<scrollbar_no_scarab
 			this="4787AA45-82AC-45B9-B2879B8C1186CAEB"
 			id="scrollbar_no_scarab"
@@ -55262,7 +54906,6 @@
 			this="8FEC8467-7449-404F-ACC532A0B06B38CA"
 			id="tier_value"
 			docking="Center"
-			component_anchor_point="0.50,0.50"
 			priority="40"
 			tooltipslocalised="true"
 			uniqueguid="8FEC8467-7449-404F-ACC532A0B06B38CA"
@@ -55294,8 +54937,8 @@
 				<_1
 					this="D885D3C5-767C-43CC-B827B1A9E1174B1F"
 					name="1"
-					width="115"
-					height="119"
+					width="100"
+					height="100"
 					texthbehaviour="Never split"
 					uniqueguid="D885D3C5-767C-43CC-B827B1A9E1174B1F">
 					<imagemetrics>
@@ -55304,8 +54947,8 @@
 							uniqueguid="5135A21B-AE70-42C8-BAC1B766D346549D"
 							componentimage="54AB7872-F0DC-48E7-8E5FB79CF1B540D5"
 							offset="0.00,-1.00"
-							width="115"
-							height="119"
+							width="100"
+							height="100"
 							dockpoint="Center"
 							dock_offset="0.00,-1.00"/>
 					</imagemetrics>
@@ -55313,8 +54956,8 @@
 				<_2
 					this="0DCD5EFC-055E-478C-8E2C0A774C4329CB"
 					name="2"
-					width="115"
-					height="119"
+					width="100"
+					height="100"
 					texthbehaviour="Never split"
 					uniqueguid="0DCD5EFC-055E-478C-8E2C0A774C4329CB">
 					<imagemetrics>
@@ -55323,8 +54966,8 @@
 							uniqueguid="25070484-F7DF-4511-BD5BBF8DA2890092"
 							componentimage="A232AFCC-3275-4B7D-A6B10AFAC69E9326"
 							offset="0.00,-1.00"
-							width="115"
-							height="119"
+							width="100"
+							height="100"
 							dockpoint="Center"
 							dock_offset="0.00,-1.00"
 							canresizeheight="false"
@@ -55334,8 +54977,8 @@
 				<_3
 					this="C0E87630-1C50-4DBF-8269023BBAD56881"
 					name="3"
-					width="115"
-					height="119"
+					width="100"
+					height="100"
 					texthbehaviour="Never split"
 					uniqueguid="C0E87630-1C50-4DBF-8269023BBAD56881">
 					<imagemetrics>
@@ -55344,8 +54987,8 @@
 							uniqueguid="065975B4-38A2-4CD3-82B1F96B750161EB"
 							componentimage="BD980158-1F05-4EE9-8641FA23176603FE"
 							offset="0.00,-1.00"
-							width="115"
-							height="119"
+							width="100"
+							height="100"
 							dockpoint="Center"
 							dock_offset="0.00,-1.00"
 							canresizeheight="false"
@@ -55355,8 +54998,8 @@
 				<_4
 					this="34EE5FE4-EEC1-49AD-B30ACE2AFE7F1F5B"
 					name="4"
-					width="115"
-					height="119"
+					width="100"
+					height="100"
 					texthbehaviour="Never split"
 					uniqueguid="34EE5FE4-EEC1-49AD-B30ACE2AFE7F1F5B">
 					<imagemetrics>
@@ -55365,8 +55008,8 @@
 							uniqueguid="0CB91F4D-C924-45FE-A4CFDA19867FAD85"
 							componentimage="52FD0CB7-123C-4873-B8553E66BDD1232F"
 							offset="0.00,-1.00"
-							width="115"
-							height="119"
+							width="100"
+							height="100"
 							dockpoint="Center"
 							dock_offset="0.00,-1.00"
 							canresizeheight="false"
@@ -55376,8 +55019,8 @@
 				<prince
 					this="A22FDEEF-3050-4B45-828C852F9636B6D4"
 					name="prince"
-					width="115"
-					height="119"
+					width="100"
+					height="100"
 					texthbehaviour="Never split"
 					uniqueguid="A22FDEEF-3050-4B45-828C852F9636B6D4">
 					<imagemetrics>
@@ -55385,9 +55028,11 @@
 							this="EDEC5D5C-5841-4E4A-B7D9242D6560D364"
 							uniqueguid="EDEC5D5C-5841-4E4A-B7D9242D6560D364"
 							componentimage="AD6FA2F5-8170-4DEA-A415060C44F5F10A"
-							width="115"
-							height="119"
+							offset="0.00,-1.00"
+							width="100"
+							height="100"
 							dockpoint="Center"
+							dock_offset="0.00,-1.00"
 							canresizeheight="false"
 							canresizewidth="false"/>
 					</imagemetrics>
@@ -55960,7 +55605,6 @@
 		<titles_holder
 			this="B2FAD2B0-9076-4C78-BADB9BB4F93DFB07"
 			id="titles_holder"
-			offset="40.00,88.00"
 			priority="40"
 			tooltipslocalised="true"
 			uniqueguid="B2FAD2B0-9076-4C78-BADB9BB4F93DFB07"
@@ -55970,17 +55614,26 @@
 				<default
 					this="12280A98-3380-4776-BDD4F3BBD91C6FEE"
 					name="default"
-					width="458"
-					height="122"
+					width="460"
+					height="100"
 					texthbehaviour="Never split"
 					interactive="true"
 					uniqueguid="12280A98-3380-4776-BDD4F3BBD91C6FEE"/>
 			</states>
+			<LayoutEngine
+				type="List"
+				sizetocontent="true"
+				margins="10.00,10.00"
+				secondary_margins="15.00,15.00"
+				is_listview_lookup_enabled="false">
+				<columnwidths>
+					<column width="460"/>
+				</columnwidths>
+			</LayoutEngine>
 		</titles_holder>
 		<titles_list
 			this="5E981D4E-2A27-4083-9E05642245892B60"
 			id="titles_list"
-			docking="Top Left"
 			priority="40"
 			tooltipslocalised="true"
 			uniqueguid="5E981D4E-2A27-4083-9E05642245892B60"
@@ -55990,53 +55643,41 @@
 				<default
 					this="8E6D4FAC-442C-4C01-93B205D7A1D41B92"
 					name="default"
-					width="116"
-					height="121"
 					texthbehaviour="Never split"
 					uniqueguid="8E6D4FAC-442C-4C01-93B205D7A1D41B92"/>
 			</states>
 			<LayoutEngine
 				type="List"
-				spacing="0.00,10.00"
+				spacing="10.00,10.00"
 				itemsperrow="4"
-				sizetocontent="true">
-				<columnwidths>
-					<column width="460"/>
-				</columnwidths>
+				sizetocontent="true"
+				is_listview_lookup_enabled="false">
 			</LayoutEngine>
 		</titles_list>
 		<titles_panel
 			this="164F0A7B-40C4-4BEA-8B4C90E668A889D7"
 			id="titles_panel"
-			offset="2.00,-1.00"
-			allowhorizontalresize="false"
-			allowverticalresize="false"
-			visible="false"
+			priority="40"
 			docking="Center"
 			component_anchor_point="0.50,0.50"
-			priority="40"
+			visible="false"
 			tooltipslocalised="true"
 			uniqueguid="164F0A7B-40C4-4BEA-8B4C90E668A889D7"
 			currentstate="DC40DE38-2C25-46A3-B3668AE2BDA76444"
 			defaultstate="DC40DE38-2C25-46A3-B3668AE2BDA76444">
+			<callbackwithcontextlist>
+				<callback_with_context callback_id="Listview"/>
+			</callbackwithcontextlist>
 			<states>
 				<default
 					this="DC40DE38-2C25-46A3-B3668AE2BDA76444"
 					name="default"
-					width="546"
-					height="810"
+					width="550"
+					height="808"
 					texthbehaviour="Never split"
+					interactive="true"
 					uniqueguid="DC40DE38-2C25-46A3-B3668AE2BDA76444"/>
 			</states>
-			<LayoutEngine
-				type="List"
-				spacing="0.00,6.00"
-				secondary_margins="40.00,40.00"
-				margins="40.00,0.00">
-				<columnwidths>
-					<column width="546"/>
-				</columnwidths>
-			</LayoutEngine>
 		</titles_panel>
 		<title_cost
 			this="CAE21579-F7BC-450F-B62E3A2913A3891E"
@@ -56132,46 +55773,6 @@
 					uniqueguid="D0562E1A-8D35-4FD5-854748D8549FADA2"/>
 			</states>
 		</title_cost>
-		<title_divider
-			this="C606C7EC-94BD-420D-9747C45514FAE306"
-			id="title_divider"
-			allowhorizontalresize="false"
-			allowverticalresize="false"
-			priority="40"
-			tooltipslocalised="true"
-			uniqueguid="C606C7EC-94BD-420D-9747C45514FAE306"
-			currentstate="212E2BB3-D0FE-40DB-AB994B4E9B3BF7D5"
-			defaultstate="212E2BB3-D0FE-40DB-AB994B4E9B3BF7D5">
-			<componentimages>
-				<component_image
-					this="57D0EFA1-D44F-483D-A38B7446C2DAFF08"
-					uniqueguid="57D0EFA1-D44F-483D-A38B7446C2DAFF08"
-					imagepath="ui/skins/default/character_details/title_divider.png"/>
-			</componentimages>
-			<states>
-				<default
-					this="212E2BB3-D0FE-40DB-AB994B4E9B3BF7D5"
-					name="default"
-					width="82"
-					height="82"
-					texthbehaviour="Never split"
-					uniqueguid="212E2BB3-D0FE-40DB-AB994B4E9B3BF7D5">
-					<imagemetrics>
-						<image
-							this="0A857787-DF0F-4294-B9BB809FBB1BFE4B"
-							uniqueguid="0A857787-DF0F-4294-B9BB809FBB1BFE4B"
-							componentimage="57D0EFA1-D44F-483D-A38B7446C2DAFF08"
-							offset="87.00,5.00"
-							width="3"
-							height="115"
-							dockpoint="Center Right External"
-							dock_offset="5.00,21.00"
-							canresizeheight="false"
-							canresizewidth="false"/>
-					</imagemetrics>
-				</default>
-			</states>
-		</title_divider>
 		<title_heroes
 			this="F0CBC9D3-4C0B-49CF-A51F0E7DFB28E8EB"
 			id="title_heroes"
@@ -56330,8 +55931,8 @@
 				<assigned
 					this="56EEDC4E-42EC-4E6E-9FEFEAC2A5A3E416"
 					name="assigned"
-					width="116"
-					height="121"
+					width="100"
+					height="100"
 					textvalign="Center"
 					texthalign="Center"
 					textforceuppercase="true"
@@ -56349,8 +55950,8 @@
 							this="39CB7A07-DA0F-44F8-A629D0C5689E48A7"
 							uniqueguid="39CB7A07-DA0F-44F8-A629D0C5689E48A7"
 							componentimage="FCAE5AA8-AA6F-4190-BB604880393255D0"
-							width="116"
-							height="121"
+							width="100"
+							height="100"
 							dockpoint="Center"
 							canresizeheight="false"
 							canresizewidth="false"/>
@@ -56358,9 +55959,8 @@
 							this="0C70A61E-ABFE-4C0D-A5B40486A187792A"
 							uniqueguid="0C70A61E-ABFE-4C0D-A5B40486A187792A"
 							componentimage="DB8F6A18-9AFE-41D4-86D3805F8467D216"
-							offset="0.00,1.00"
-							width="115"
-							height="119"
+							width="100"
+							height="100"
 							dockpoint="Center"
 							canresizeheight="false"
 							canresizewidth="false"/>
@@ -56368,11 +55968,9 @@
 							this="70A7546A-9269-4BCD-8231D50DC0AEE2EB"
 							uniqueguid="70A7546A-9269-4BCD-8231D50DC0AEE2EB"
 							componentimage="A45CD711-7E10-4D16-83F287BC98B65643"
-							offset="-7.00,-8.00"
-							width="130"
-							height="130"
+							width="100"
+							height="100"
 							dockpoint="Center"
-							dock_offset="0.00,-4.00"
 							canresizeheight="false"
 							canresizewidth="false"/>
 					</imagemetrics>
@@ -56386,8 +55984,8 @@
 				<assigned_hover
 					this="69DC4CD8-6BD8-4F34-8445069750C52AD1"
 					name="assigned_hover"
-					width="116"
-					height="121"
+					width="100"
+					height="100"
 					textvalign="Center"
 					texthalign="Center"
 					textforceuppercase="true"
@@ -56405,8 +56003,8 @@
 							this="105EF911-E5D1-4B81-BBEC0311C0C5EF53"
 							uniqueguid="105EF911-E5D1-4B81-BBEC0311C0C5EF53"
 							componentimage="FCAE5AA8-AA6F-4190-BB604880393255D0"
-							width="116"
-							height="121"
+							width="100"
+							height="100"
 							dockpoint="Center"
 							canresizeheight="false"
 							canresizewidth="false"/>
@@ -56414,9 +56012,8 @@
 							this="78BCE11E-0711-4E7B-AAF038DB30DE8278"
 							uniqueguid="78BCE11E-0711-4E7B-AAF038DB30DE8278"
 							componentimage="DB8F6A18-9AFE-41D4-86D3805F8467D216"
-							offset="0.00,1.00"
-							width="115"
-							height="119"
+							width="100"
+							height="100"
 							dockpoint="Center"
 							canresizeheight="false"
 							canresizewidth="false"
@@ -56426,11 +56023,9 @@
 							this="39EBD50D-88E2-4C0F-9EBBAAFAFC6351AC"
 							uniqueguid="39EBD50D-88E2-4C0F-9EBBAAFAFC6351AC"
 							componentimage="A45CD711-7E10-4D16-83F287BC98B65643"
-							offset="-7.00,-8.00"
-							width="130"
-							height="130"
+							width="100"
+							height="100"
 							dockpoint="Center"
-							dock_offset="0.00,-4.00"
 							canresizeheight="false"
 							canresizewidth="false"
 							shader_name="brighten_t0"/>
@@ -56446,8 +56041,8 @@
 				<assigned_prince
 					this="9C6F8574-AC44-446D-AD7AC8FA34C22C7B"
 					name="assigned_prince"
-					width="116"
-					height="121"
+					width="100"
+					height="100"
 					texthbehaviour="Never split"
 					interactive="true"
 					uniqueguid="9C6F8574-AC44-446D-AD7AC8FA34C22C7B">
@@ -56456,8 +56051,8 @@
 							this="E60ECBDF-EE02-442B-85D2D11CF6D979DC"
 							uniqueguid="E60ECBDF-EE02-442B-85D2D11CF6D979DC"
 							componentimage="FCAE5AA8-AA6F-4190-BB604880393255D0"
-							width="116"
-							height="121"
+							width="100"
+							height="100"
 							dockpoint="Center"
 							canresizeheight="false"
 							canresizewidth="false"/>
@@ -56465,9 +56060,8 @@
 							this="204E25CB-B366-4DA4-B0FED7C8A9652A8A"
 							uniqueguid="204E25CB-B366-4DA4-B0FED7C8A9652A8A"
 							componentimage="61587E8A-79CF-4436-9F6B016A2CFAE574"
-							offset="0.00,1.00"
-							width="115"
-							height="119"
+							width="100"
+							height="100"
 							dockpoint="Center"
 							canresizeheight="false"
 							canresizewidth="false"/>
@@ -56475,11 +56069,9 @@
 							this="18A886BF-396F-431E-BF428820EB7AC0ED"
 							uniqueguid="18A886BF-396F-431E-BF428820EB7AC0ED"
 							componentimage="A45CD711-7E10-4D16-83F287BC98B65643"
-							offset="-7.00,-8.00"
-							width="130"
-							height="130"
+							width="100"
+							height="100"
 							dockpoint="Center"
-							dock_offset="0.00,-4.00"
 							canresizeheight="false"
 							canresizewidth="false"/>
 					</imagemetrics>
@@ -56487,8 +56079,8 @@
 				<assigned_prince_hover
 					this="6DDEDE92-5C1D-4EAD-B8C6C13DDE187C67"
 					name="assigned_prince_hover"
-					width="116"
-					height="121"
+					width="100"
+					height="100"
 					texthbehaviour="Never split"
 					interactive="true"
 					uniqueguid="6DDEDE92-5C1D-4EAD-B8C6C13DDE187C67">
@@ -56497,8 +56089,8 @@
 							this="8AA6CA06-E71A-4056-B19DFFC0FC8AD297"
 							uniqueguid="8AA6CA06-E71A-4056-B19DFFC0FC8AD297"
 							componentimage="FCAE5AA8-AA6F-4190-BB604880393255D0"
-							width="116"
-							height="121"
+							width="100"
+							height="100"
 							dockpoint="Center"
 							canresizeheight="false"
 							canresizewidth="false"/>
@@ -56506,9 +56098,8 @@
 							this="520316E4-9CFB-4D4C-8A467C880D2D911D"
 							uniqueguid="520316E4-9CFB-4D4C-8A467C880D2D911D"
 							componentimage="61587E8A-79CF-4436-9F6B016A2CFAE574"
-							offset="0.00,1.00"
-							width="115"
-							height="119"
+							width="100"
+							height="100"
 							dockpoint="Center"
 							canresizeheight="false"
 							canresizewidth="false"
@@ -56518,11 +56109,9 @@
 							this="F3C01F4E-F177-4EC4-8024B927EDF65C7B"
 							uniqueguid="F3C01F4E-F177-4EC4-8024B927EDF65C7B"
 							componentimage="A45CD711-7E10-4D16-83F287BC98B65643"
-							offset="-7.00,-8.00"
-							width="130"
-							height="130"
+							width="100"
+							height="100"
 							dockpoint="Center"
-							dock_offset="0.00,-4.00"
 							canresizeheight="false"
 							canresizewidth="false"
 							shader_name="brighten_t0"/>
@@ -56531,8 +56120,8 @@
 				<assigned_prince_upgraded
 					this="9358527C-9A9C-462B-9258C1B6DF2A9EDF"
 					name="assigned_prince_upgraded"
-					width="116"
-					height="121"
+					width="100"
+					height="100"
 					texthbehaviour="Never split"
 					interactive="true"
 					uniqueguid="9358527C-9A9C-462B-9258C1B6DF2A9EDF"
@@ -56542,8 +56131,8 @@
 							this="01115D7D-7B66-4957-BE7033FF600232B2"
 							uniqueguid="01115D7D-7B66-4957-BE7033FF600232B2"
 							componentimage="FCAE5AA8-AA6F-4190-BB604880393255D0"
-							width="116"
-							height="121"
+							width="100"
+							height="100"
 							dockpoint="Center"
 							canresizeheight="false"
 							canresizewidth="false"/>
@@ -56551,9 +56140,8 @@
 							this="C777F893-625A-47C6-82DE0C655D0A4B0E"
 							uniqueguid="C777F893-625A-47C6-82DE0C655D0A4B0E"
 							componentimage="61587E8A-79CF-4436-9F6B016A2CFAE574"
-							offset="0.00,1.00"
-							width="115"
-							height="119"
+							width="100"
+							height="100"
 							dockpoint="Center"
 							canresizeheight="false"
 							canresizewidth="false"/>
@@ -56561,11 +56149,9 @@
 							this="69D7F5DD-F7AE-4BE9-9540F1C6572B6D45"
 							uniqueguid="69D7F5DD-F7AE-4BE9-9540F1C6572B6D45"
 							componentimage="A45CD711-7E10-4D16-83F287BC98B65643"
-							offset="-7.00,-8.00"
-							width="130"
-							height="130"
+							width="100"
+							height="100"
 							dockpoint="Center"
-							dock_offset="0.00,-4.00"
 							canresizeheight="false"
 							canresizewidth="false"/>
 					</imagemetrics>
@@ -56576,8 +56162,8 @@
 				<assigned_prince_upgraded_hover
 					this="0C315BB2-AF08-4F19-859C5552C2699953"
 					name="assigned_prince_upgraded_hover"
-					width="116"
-					height="121"
+					width="100"
+					height="100"
 					texthbehaviour="Never split"
 					interactive="true"
 					uniqueguid="0C315BB2-AF08-4F19-859C5552C2699953"
@@ -56587,8 +56173,8 @@
 							this="0D201D85-548E-492C-A03F7C4D42C2ED05"
 							uniqueguid="0D201D85-548E-492C-A03F7C4D42C2ED05"
 							componentimage="FCAE5AA8-AA6F-4190-BB604880393255D0"
-							width="116"
-							height="121"
+							width="100"
+							height="100"
 							dockpoint="Center"
 							canresizeheight="false"
 							canresizewidth="false"/>
@@ -56596,9 +56182,8 @@
 							this="CA4FFDAA-3820-4432-A142FA442D6F0D8C"
 							uniqueguid="CA4FFDAA-3820-4432-A142FA442D6F0D8C"
 							componentimage="61587E8A-79CF-4436-9F6B016A2CFAE574"
-							offset="0.00,1.00"
-							width="115"
-							height="119"
+							width="100"
+							height="100"
 							dockpoint="Center"
 							canresizeheight="false"
 							canresizewidth="false"
@@ -56608,11 +56193,9 @@
 							this="19D1EC05-B4B4-4400-9DAB6C10BAD78288"
 							uniqueguid="19D1EC05-B4B4-4400-9DAB6C10BAD78288"
 							componentimage="A45CD711-7E10-4D16-83F287BC98B65643"
-							offset="-7.00,-8.00"
-							width="130"
-							height="130"
+							width="100"
+							height="100"
 							dockpoint="Center"
-							dock_offset="0.00,-4.00"
 							canresizeheight="false"
 							canresizewidth="false"
 							shader_name="brighten_t0"/>
@@ -56626,8 +56209,8 @@
 				<empty_slot
 					this="1E47A606-E5AE-45D8-A8EA58D1F4D28EDA"
 					name="empty_slot"
-					width="116"
-					height="121"
+					width="100"
+					height="100"
 					font_m_size="12"
 					font_m_colour="#B4ADA0FF"
 					font_m_leading="0"
@@ -56640,8 +56223,8 @@
 							this="236FAE3B-781E-48CC-A0C670D1AE52D621"
 							uniqueguid="236FAE3B-781E-48CC-A0C670D1AE52D621"
 							componentimage="FCAE5AA8-AA6F-4190-BB604880393255D0"
-							width="116"
-							height="121"
+							width="100"
+							height="100"
 							dockpoint="Center"
 							canresizeheight="false"
 							canresizewidth="false"/>
@@ -56653,8 +56236,8 @@
 				<empty_slot_hover
 					this="264FC6D3-B9CF-43D6-9DCB088107F0AF7B"
 					name="empty_slot_hover"
-					width="116"
-					height="121"
+					width="100"
+					height="100"
 					font_m_size="12"
 					font_m_colour="#B4ADA0FF"
 					font_m_leading="0"
@@ -56667,8 +56250,8 @@
 							this="0AF20187-AA08-441D-90D0D0024670EF82"
 							uniqueguid="0AF20187-AA08-441D-90D0D0024670EF82"
 							componentimage="FCAE5AA8-AA6F-4190-BB604880393255D0"
-							width="116"
-							height="121"
+							width="100"
+							height="100"
 							dockpoint="Center"
 							canresizeheight="false"
 							canresizewidth="false"/>
@@ -56682,8 +56265,8 @@
 				<locked
 					this="D04F6D66-6981-47E4-B1A776901663714E"
 					name="locked"
-					width="116"
-					height="121"
+					width="100"
+					height="100"
 					font_m_size="12"
 					font_m_colour="#B4ADA0FF"
 					font_m_leading="0"
@@ -56697,8 +56280,8 @@
 							this="51566207-223E-4330-862844B1B03CDFBC"
 							uniqueguid="51566207-223E-4330-862844B1B03CDFBC"
 							componentimage="FCAE5AA8-AA6F-4190-BB604880393255D0"
-							width="116"
-							height="121"
+							width="100"
+							height="100"
 							dockpoint="Center"
 							canresizeheight="false"
 							canresizewidth="false"/>
@@ -56706,9 +56289,9 @@
 							this="B439B073-DC7B-41D0-B043E26F4565AEA3"
 							uniqueguid="B439B073-DC7B-41D0-B043E26F4565AEA3"
 							componentimage="AA698276-F4A7-4F22-BB47454D6AA2B20C"
-							offset="43.00,45.00"
 							width="30"
 							height="30"
+							offset="35.00,35.00"
 							dockpoint="Center"
 							canresizeheight="false"
 							canresizewidth="false"/>
@@ -56720,8 +56303,8 @@
 				<locked_hover
 					this="9D277D26-DB74-4DF7-B1A951BB9578E895"
 					name="locked_hover"
-					width="116"
-					height="121"
+					width="100"
+					height="100"
 					texthbehaviour="Never split"
 					interactive="true"
 					uniqueguid="9D277D26-DB74-4DF7-B1A951BB9578E895"
@@ -56731,8 +56314,8 @@
 							this="0DDCE5FF-70EF-476F-AC3600F8BC3DFCD2"
 							uniqueguid="0DDCE5FF-70EF-476F-AC3600F8BC3DFCD2"
 							componentimage="FCAE5AA8-AA6F-4190-BB604880393255D0"
-							width="116"
-							height="121"
+							width="100"
+							height="100"
 							dockpoint="Center"
 							canresizeheight="false"
 							canresizewidth="false"/>
@@ -56740,9 +56323,9 @@
 							this="019E0107-743E-4440-A6529805C183092B"
 							uniqueguid="019E0107-743E-4440-A6529805C183092B"
 							componentimage="AA698276-F4A7-4F22-BB47454D6AA2B20C"
-							offset="43.00,45.00"
 							width="30"
 							height="30"
+							offset="35.00,35.00"
 							dockpoint="Center"
 							canresizeheight="false"
 							canresizewidth="false"/>
@@ -57204,91 +56787,7 @@
 				<element value="ui\skins\default\scroll_icon_up_hover.png"/>
 				<element value="ui\skins\default\scroll_icon_up_inactive.png"/>
 			</override_images>
-		</top>
-		<top
-			this="E79DEBB5-85BB-4EE7-9D880C17A7016003"
-			id="top"
-			part_of_template="true"
-			uniqueguid_in_template="434A31E3-3895-4818-B2D83C177F3A32A4"
-			uniqueguid="E79DEBB5-85BB-4EE7-9D880C17A7016003"
-			dimensions="22.00,22.00"
-			dock_point="Top Center External"
-			is_visible="false"
-			priority="61"
-			sound_category="UI_GBL_TMP_Slider_Arrows_Up">
-			<state_uniqueguids>
-				<state_uniqueguid
-					name="active"
-					uniqueguid="7C8D9788-A206-42A2-B271B255859EFB9E"/>
-				<state_uniqueguid
-					name="down"
-					uniqueguid="36FD9DBD-EC55-4704-BF853313FCA77386"/>
-				<state_uniqueguid
-					name="down_off"
-					uniqueguid="8E3BD5FC-218C-4F13-83DDFC35BEDAE565"/>
-				<state_uniqueguid
-					name="hover"
-					uniqueguid="641C81CA-373A-4AD1-B876EA2D6712E567"/>
-				<state_uniqueguid
-					name="inactive"
-					uniqueguid="0EDF854F-C06D-4C66-BD2E508A8D45C3E7"/>
-			</state_uniqueguids>
-			<component_image_uniqueguids>
-				<component_image_uniqueguid
-					name="ui\skins\default\scrollbar_button_plate_active.png"
-					uniqueguid="998DBE27-BF7D-4952-A5D9EF0756F62A69"/>
-				<component_image_uniqueguid
-					name="ui\skins\default\scrollbar_button_plate_hover.png"
-					uniqueguid="8A86FDB9-0778-4E4A-9E0E2DA66C7FF541"/>
-				<component_image_uniqueguid
-					name="ui\skins\default\scrollbar_button_plate_inactive.png"
-					uniqueguid="EA6C3A9A-646C-4A56-8C10EEAF31D6A64B"/>
-				<component_image_uniqueguid
-					name="ui\skins\default\scrollbar_button_plate_pressed.png"
-					uniqueguid="6D3C016D-EE01-4A4B-9597839A8E5CC22E"/>
-				<component_image_uniqueguid
-					name="ui\skins\default\scrollbar_button_plate_underlay.png"
-					uniqueguid="6AC9A1AC-884F-4018-AA385CFFB21714BA"/>
-				<component_image_uniqueguid
-					name="ui\skins\default\scroll_icon_up_active.png"
-					uniqueguid="AD54E056-27B7-418D-B7A3FC7452D5F603"/>
-				<component_image_uniqueguid
-					name="ui\skins\default\scroll_icon_up_hover.png"
-					uniqueguid="51579F92-B10B-4940-80A1CD7A935C8F0A"/>
-				<component_image_uniqueguid
-					name="ui\skins\default\scroll_icon_up_inactive.png"
-					uniqueguid="88D7226B-67FC-44C0-9ABF47250F9B0C76"/>
-			</component_image_uniqueguids>
-			<callbacks_with_context>
-				<callback_with_context callback_id="SliderDecrementButton"/>
-			</callbacks_with_context>
-			<user_properties>
-				<property
-					name="stepSize"
-					value="10"/>
-				<property
-					name="update_frequency_ms"
-					value="200"/>
-			</user_properties>
-			<localised_texts>
-				<localised_text/>
-				<localised_text state="active"/>
-				<localised_text state="down"/>
-				<localised_text state="down_off"/>
-				<localised_text state="hover"/>
-				<localised_text state="inactive"/>
-			</localised_texts>
-			<override_images>
-				<element value="ui\skins\default\scrollbar_button_plate_active.png"/>
-				<element value="ui\skins\default\scrollbar_button_plate_hover.png"/>
-				<element value="ui\skins\default\scrollbar_button_plate_inactive.png"/>
-				<element value="ui\skins\default\scrollbar_button_plate_pressed.png"/>
-				<element value="ui\skins\default\scrollbar_button_plate_underlay.png"/>
-				<element value="ui\skins\default\scroll_icon_up_active.png"/>
-				<element value="ui\skins\default\scroll_icon_up_hover.png"/>
-				<element value="ui\skins\default\scroll_icon_up_inactive.png"/>
-			</override_images>
-		</top>
+		</top>		
 		<top
 			this="F75EAD05-3DEE-4592-9B9693E347B3105C"
 			id="top"
@@ -59455,55 +58954,7 @@
 					<column width="433"/>
 				</columnwidths>
 			</LayoutEngine>
-		</unacquired_traits_section>
-		<unassigned_titles_holder
-			this="E10A725E-0903-4837-ACDAECF3CCA00267"
-			id="unassigned_titles_holder"
-			offset="40.00,439.00"
-			component_anchor_point="0.50,1.00"
-			priority="40"
-			tooltipslocalised="true"
-			uniqueguid="E10A725E-0903-4837-ACDAECF3CCA00267"
-			currentstate="37503F20-7466-4584-A3CCF05EFB5768EB"
-			defaultstate="37503F20-7466-4584-A3CCF05EFB5768EB">
-			<callbackwithcontextlist>
-				<callback_with_context callback_id="CharacterAncillarySelectorTitles"/>
-			</callbackwithcontextlist>
-			<states>
-				<default
-					this="37503F20-7466-4584-A3CCF05EFB5768EB"
-					name="default"
-					width="460"
-					height="353"
-					texthbehaviour="Never split"
-					uniqueguid="37503F20-7466-4584-A3CCF05EFB5768EB"/>
-			</states>
-		</unassigned_titles_holder>
-		<unassigned_titles_list_view
-			this="89A9A0E5-4993-43E4-9369E0A77311C3D0"
-			id="unassigned_titles_list_view"
-			offset="0.00,-5.00"
-			docking="Center"
-			component_anchor_point="0.50,0.50"
-			priority="40"
-			tooltipslocalised="true"
-			uniqueguid="89A9A0E5-4993-43E4-9369E0A77311C3D0"
-			currentstate="38ACFCED-C28A-45DC-9CC45A2998605626"
-			defaultstate="38ACFCED-C28A-45DC-9CC45A2998605626">
-			<callbackwithcontextlist>
-				<callback_with_context callback_id="Listview"/>
-			</callbackwithcontextlist>
-			<states>
-				<default
-					this="38ACFCED-C28A-45DC-9CC45A2998605626"
-					name="default"
-					width="460"
-					height="363"
-					texthbehaviour="Never split"
-					interactive="true"
-					uniqueguid="38ACFCED-C28A-45DC-9CC45A2998605626"/>
-			</states>
-		</unassigned_titles_list_view>
+		</unacquired_traits_section>		
 		<unavailable_item
 			this="52169A92-31FE-44F6-9144D082B4417D53"
 			id="unavailable_item"
@@ -60615,9 +60066,9 @@
 				</default>
 			</states>
 		</zeal_icon>
-        <!-- MODS_SECTION -->
-        <list_clip
-			this="5DA16E2D-56F4-4C74-A806-3578EBB5C90F"
+		<!-- MODS_SECTION-->
+		<list_clip
+			this="9D3A1216-1D5B-4DC2-862E-0702F6EDDCF7"
 			id="list_clip"
 			offset="38.00,36.00"
 			clipchildren="true"
@@ -60626,70 +60077,73 @@
 			component_anchor_point="0.50,1.00"
 			priority="40"
 			tooltipslocalised="true"
-			uniqueguid="5DA16E2D-56F4-4C74-A806-3578EBB5C90F"
-			currentstate="809101A0-24E8-497B-ACD2-B7545C51244A"
-            defaultstate="809101A0-24E8-497B-ACD2-B7545C51244A">
+			uniqueguid="9D3A1216-1D5B-4DC2-862E-0702F6EDDCF7"
+			currentstate="1F1DFF8A-8A16-40CC-B24D-BCE2997618E8"
+			defaultstate="1F1DFF8A-8A16-40CC-B24D-BCE2997618E8">
 			<states>
 				<newstate
-					this="809101A0-24E8-497B-ACD2-B7545C51244A"
+					this="1F1DFF8A-8A16-40CC-B24D-BCE2997618E8"
 					name="NewState"
 					width="474"
 					height="760"
 					texthbehaviour="Never split"
 					interactive="true"
-					uniqueguid="809101A0-24E8-497B-ACD2-B7545C51244A"/>
+					uniqueguid="1F1DFF8A-8A16-40CC-B24D-BCE2997618E8"/>
 			</states>
 		</list_clip>
-        <list_box
-			this="F70E991A-9BD4-404B-8D3A-FC9611C24EC6"
+		<list_box
+			this="FF5786FE-6480-44CF-A5F4-CFA6312E7CA3"
 			id="list_box"
 			docking="Top Left"
 			priority="40"
 			tooltipslocalised="true"
-			uniqueguid="F70E991A-9BD4-404B-8D3A-FC9611C24EC6"
-			currentstate="74207FD8-EC9D-4130-AE55-17CE86C148A3">
+			uniqueguid="FF5786FE-6480-44CF-A5F4-CFA6312E7CA3"
+			currentstate="F0BBD576-F654-4C98-9E8D-E53E57DBE623"
+			defaultstate="F0BBD576-F654-4C98-9E8D-E53E57DBE623">
 			<callbackwithcontextlist>
 				<callback_with_context callback_id="List"/>
 			</callbackwithcontextlist>
 			<states>
 				<newstate
-					this="74207FD8-EC9D-4130-AE55-17CE86C148A3"
+					this="F0BBD576-F654-4C98-9E8D-E53E57DBE623"
 					name="NewState"
-					width="458"
-					height="426"
+					width="460"
+					height="100"
+					texthbehaviour="Never split"
 					interactive="true"
-					uniqueguid="74207FD8-EC9D-4130-AE55-17CE86C148A3"/>
+					uniqueguid="F0BBD576-F654-4C98-9E8D-E53E57DBE623"/>
 			</states>
 			<LayoutEngine
 				type="List"
 				sizetocontent="true">
 				<columnwidths>
-					<column width="253"/>
+					<column width="150"/>
 				</columnwidths>
 			</LayoutEngine>
 		</list_box>
-        <scrollbar
-			this="C9733398-E32C-4A46-BC33-ECA9A29BEF92"
+		<scrollbar
+			this="B366892E-9944-4967-A105-C88885FF4112"
 			id="scrollbar"
 			template_id="scrollbar"
 			part_of_template="true"
 			uniqueguid_in_template="C0D9B934-DB7D-4A12-9D5453C2601FAE7A"
-			uniqueguid="C9733398-E32C-4A46-BC33-ECA9A29BEF92"
+			uniqueguid="B366892E-9944-4967-A105-C88885FF4112"
 			dimensions="26.00,752.00"
 			dock_point="Center Right"
+			offset="-14.00,6.00"
 			priority="61">
 			<state_uniqueguids>
 				<state_uniqueguid
 					name="active"
-					uniqueguid="D652C7D3-228A-49A7-8E14-DE6EE35F6A86"/>
+					uniqueguid="D8A07F97-7535-49AC-8A90D3206263E771"/>
 				<state_uniqueguid
 					name="inactive"
-					uniqueguid="86FD31B8-2110-44D7-95EA-218AA975DAB1"/>
+					uniqueguid="1E6B1602-37E2-400F-8FD80A63BC9B9E75"/>
 			</state_uniqueguids>
 			<component_image_uniqueguids>
 				<component_image_uniqueguid
 					name="ui\skins\default\components\scrollbar\scrollbar_base.png"
-					uniqueguid="D0FB4C1A-E824-4C84-BC6A6FE20AF9A9ED"/>
+					uniqueguid="3DC0F3A1-44F7-44B0-BE0A4D59ADB76CB0"/>
 			</component_image_uniqueguids>
 			<callbacks_with_context>
 				<callback_with_context callback_id="VSlider"/>
@@ -60710,6 +60164,12 @@
 				<property
 					name="minValue"
 					value="0"/>
+				<property
+					name="constant_step_size"
+					value=""/>
+				<property
+					name="step_size"
+					value="20"/>
 			</user_properties>
 			<localised_texts>
 				<localised_text/>
@@ -60720,12 +60180,12 @@
 				<element value="ui\skins\default\components\scrollbar\scrollbar_base.png"/>
 			</override_images>
 		</scrollbar>
-        <frame_top
-			this="5FC69F09-948E-44DD-AAE8-152C8CD03DDB"
+		<frame_top
+			this="949C23E5-78EB-43AF-BC6A-1DEDD35EC5BB"
 			id="frame_top"
 			part_of_template="true"
 			uniqueguid_in_template="F6B49551-B987-4FE4-A322073650CEF173"
-			uniqueguid="5FC69F09-948E-44DD-AAE8-152C8CD03DDB"
+			uniqueguid="949C23E5-78EB-43AF-BC6A-1DEDD35EC5BB"
 			dimensions="26.00,34.00"
 			dock_point="Top Center External"
 			is_visible="false"
@@ -60733,12 +60193,12 @@
 			<state_uniqueguids>
 				<state_uniqueguid
 					name="NewState"
-					uniqueguid="CD6B2071-2936-4D6E-9AA9-F9C5D72E2150"/>
+					uniqueguid="3791CD11-A532-4EB6-AF990F6571115F18"/>
 			</state_uniqueguids>
 			<component_image_uniqueguids>
 				<component_image_uniqueguid
 					name="ui\skins\default\panel_slider_vertical_top.png"
-					uniqueguid="B05553CD-9C22-40F9-9B2B-F78DB9020128"/>
+					uniqueguid="71BCE86B-7DA9-46AB-90D936EE9C0D477A"/>
 			</component_image_uniqueguids>
 			<localised_texts>
 				<localised_text/>
@@ -60748,12 +60208,12 @@
 				<element value="ui\skins\default\panel_slider_vertical_top.png"/>
 			</override_images>
 		</frame_top>
-        <frame_bottom
-			this="942B6376-5320-43B5-9F64-84798B99DB0B"
+		<frame_bottom
+			this="437C7517-F0C8-4C86-9F79-64194E899B48"
 			id="frame_bottom"
 			part_of_template="true"
 			uniqueguid_in_template="E739123B-C001-4EAD-BF6BA31C8995498D"
-			uniqueguid="942B6376-5320-43B5-9F64-84798B99DB0B"
+			uniqueguid="437C7517-F0C8-4C86-9F79-64194E899B48"
 			dimensions="26.00,34.00"
 			dock_point="Bottom Center External"
 			is_visible="false"
@@ -60761,12 +60221,12 @@
 			<state_uniqueguids>
 				<state_uniqueguid
 					name="NewState"
-					uniqueguid="D7601C79-7C9D-45AC-81C7-B37B92EE5114"/>
+					uniqueguid="89A6D5DE-4188-4AF6-AFD8F48766620AE0"/>
 			</state_uniqueguids>
 			<component_image_uniqueguids>
 				<component_image_uniqueguid
 					name="ui\skins\default\panel_slider_vertical_bottom.png"
-					uniqueguid="621B73C1-6704-4EAE-80D2-78F9EA0B0E5A"/>
+					uniqueguid="521D58EB-3F5E-47EB-83455A51677027F2"/>
 			</component_image_uniqueguids>
 			<localised_texts>
 				<localised_text/>
@@ -60776,43 +60236,46 @@
 				<element value="ui\skins\default\panel_slider_vertical_bottom.png"/>
 			</override_images>
 		</frame_bottom>
-        <handle
-			this="7AC4AD3D-37C4-4222-8D30-DD23E9185B80"
+		<handle
+			this="99A058A5-688B-4186-A7FC-2F8BE25F6757"
 			id="handle"
 			part_of_template="true"
 			uniqueguid_in_template="3C2E3333-366D-443D-BB2376CC03C3CE6F"
-			uniqueguid="7AC4AD3D-37C4-4222-8D30-DD23E9185B80"
+			uniqueguid="99A058A5-688B-4186-A7FC-2F8BE25F6757"
 			dimensions="18.00,80.00"
-			offset="4.00,130.00"
-			priority="60"
+			offset="4.00,4.00"
+			priority="61"
 			sound_category="UI_GBL_TMP_Slider_Handle">
 			<state_uniqueguids>
 				<state_uniqueguid
 					name="active"
-					uniqueguid="4C5DBAA6-2D87-40EE-BA51-D384E84C91E7"/>
+					uniqueguid="6E042A72-2CBA-4610-B9E203AF5F635CC2"/>
 				<state_uniqueguid
 					name="down_off"
-					uniqueguid="B064B585-B9BE-478C-A9AB-989C64D09754"/>
+					uniqueguid="B69613D0-94DB-494A-845B91DF2F7E67DC"/>
 				<state_uniqueguid
 					name="hover"
-					uniqueguid="85FC8E19-A723-4C46-A3BD-93729D107D9E"/>
+					uniqueguid="82DA2556-88A8-41DC-993CF3409284CFED"/>
 				<state_uniqueguid
 					name="inactive"
-					uniqueguid="10553AD0-1CE2-44E2-B192-C27E87A06B90"/>
+					uniqueguid="94420056-8BF9-490A-8DFB8CB7D3CEBC2F"/>
 			</state_uniqueguids>
 			<component_image_uniqueguids>
 				<component_image_uniqueguid
-					name="ui\skins\default\square_vertical_handler_active.png"
-					uniqueguid="CCF5A808-DE47-4F32-B5FB-15903EEE9FAC"/>
+					name="ui\skins\default\components\scrollbar\scrollbar_handle.png"
+					uniqueguid="3FD156A9-2880-4FE4-983A960C87A9D149"/>
 				<component_image_uniqueguid
-					name="ui\skins\default\square_vertical_handler_hover.png"
-					uniqueguid="05FF4570-E0D7-4B7C-B493-29AA8BBA84A9"/>
+					name="ui\skins\default\components\scrollbar\scrollbar_handle_hover.png"
+					uniqueguid="95F72B3A-A74A-4A4F-BB84F962E0CE3191"/>
 				<component_image_uniqueguid
-					name="ui\skins\default\square_vertical_handler_inactive.png"
-					uniqueguid="26C8484D-522F-44E3-9BDA-6C2873D66B8B"/>
+					name="ui\skins\default\components\scrollbar\scrollbar_handle.png"
+					uniqueguid="3FD156A9-2880-4FE4-983A960C87A9D149"/>
 				<component_image_uniqueguid
-					name="ui\skins\default\square_vertical_handler_underlay.png"
-					uniqueguid="E62D7CE7-977E-49F8-84EE-5ECAF238102A"/>
+					name="ui\skins\default\components\scrollbar\scrollbar_bug.png"
+					uniqueguid="CD0BEFE2-B77B-47D6-B417C53A5109AB11"/>
+				<component_image_uniqueguid
+					name="ui\skins\default\components\scrollbar\scrollbar_bug_hover.png"
+					uniqueguid="3F622CCB-4B46-49D6-B73A5F3BB85F8856"/>
 			</component_image_uniqueguids>
 			<callbacks_with_context>
 				<callback_with_context callback_id="VSliderHandle"/>
@@ -60836,64 +60299,66 @@
 				<localised_text state="inactive"/>
 			</localised_texts>
 			<override_images>
-				<element value="ui\skins\default\square_vertical_handler_active.png"/>
-				<element value="ui\skins\default\square_vertical_handler_hover.png"/>
-				<element value="ui\skins\default\square_vertical_handler_inactive.png"/>
-				<element value="ui\skins\default\square_vertical_handler_underlay.png"/>
+				<element value="ui\skins\default\components\scrollbar\scrollbar_handle.png"/>
+				<element value="ui\skins\default\components\scrollbar\scrollbar_handle_hover.png"/>
+				<element value="ui\skins\default\components\scrollbar\scrollbar_handle.png"/>
+				<element value="ui\skins\default\components\scrollbar\scrollbar_bug.png"/>
+				<element value="ui\skins\default\components\scrollbar\scrollbar_bug_hover.png"/>
 			</override_images>
 		</handle>
-        <top
-			this="792A286C-7A5B-4A11-9B38-70BA0BC4F82D"
+		<top
+			this="BFF62FDE-0827-4D94-9787-36BFF4ED2957"
 			id="top"
 			part_of_template="true"
 			uniqueguid_in_template="434A31E3-3895-4818-B2D83C177F3A32A4"
-			uniqueguid="792A286C-7A5B-4A11-9B38-70BA0BC4F82D"
+			uniqueguid="BFF62FDE-0827-4D94-9787-36BFF4ED2957"
 			dimensions="22.00,22.00"
 			dock_point="Top Center External"
-			priority="60"
-			sound_category="UI_GBL_TMP_Slider_Arrows">
+			is_visible="false"
+			priority="61"
+			sound_category="UI_GBL_TMP_Slider_Arrows_Up">
 			<state_uniqueguids>
 				<state_uniqueguid
 					name="active"
-					uniqueguid="4F0B83F1-B5AB-4D4F-A006-A7026C5A694B"/>
+					uniqueguid="7C8D9788-A206-42A2-B271B255859EFB9E"/>
 				<state_uniqueguid
 					name="down"
-					uniqueguid="89B717D4-F680-41B3-B312-2CD0BD92E53A"/>
+					uniqueguid="36FD9DBD-EC55-4704-BF853313FCA77386"/>
 				<state_uniqueguid
 					name="down_off"
-					uniqueguid="87C8A336-C36B-4954-9AEF-683FAAA272AC"/>
+					uniqueguid="8E3BD5FC-218C-4F13-83DDFC35BEDAE565"/>
 				<state_uniqueguid
 					name="hover"
-					uniqueguid="C922872E-C62D-4F25-A693-ED0A8452F73E"/>
+					uniqueguid="641C81CA-373A-4AD1-B876EA2D6712E567"/>
 				<state_uniqueguid
 					name="inactive"
-					uniqueguid="985FDB31-CE76-4C36-A1C4-8287C0BF84F8"/>
+					uniqueguid="0EDF854F-C06D-4C66-BD2E508A8D45C3E7"/>
 			</state_uniqueguids>
 			<component_image_uniqueguids>
 				<component_image_uniqueguid
 					name="ui\skins\default\scrollbar_button_plate_active.png"
-					uniqueguid="379E2703-F738-4D83-AC4A-ED2FBDBD9CB5"/>
+					uniqueguid="998DBE27-BF7D-4952-A5D9EF0756F62A69"/>
 				<component_image_uniqueguid
 					name="ui\skins\default\scrollbar_button_plate_hover.png"
-					uniqueguid="3DCA197E-2B89-4276-B1B0-CF09C8C4EABA"/>
+					uniqueguid="8A86FDB9-0778-4E4A-9E0E2DA66C7FF541"/>
 				<component_image_uniqueguid
 					name="ui\skins\default\scrollbar_button_plate_inactive.png"
-					uniqueguid="3EF036A0-27A4-4349-8C58-EF4BED199AEC"/>
+					uniqueguid="EA6C3A9A-646C-4A56-8C10EEAF31D6A64B"/>
 				<component_image_uniqueguid
 					name="ui\skins\default\scrollbar_button_plate_pressed.png"
-					uniqueguid="CC136F0C-DD2B-41C5-850D-FE03D0857CCF"/>
+					uniqueguid="6D3C016D-EE01-4A4B-9597839A8E5CC22E"/>
 				<component_image_uniqueguid
 					name="ui\skins\default\scrollbar_button_plate_underlay.png"
-					uniqueguid="950D6367-D1CA-4623-AB70-F587BF1DBA98"/>
+					uniqueguid="6AC9A1AC-884F-4018-AA385CFFB21714BA"/>
 				<component_image_uniqueguid
 					name="ui\skins\default\scroll_icon_up_active.png"
-					uniqueguid="E6CF984F-3FE5-4DF8-A506-5AD56F840805"/>
+					uniqueguid="AD54E056-27B7-418D-B7A3FC7452D5F603"/>
 				<component_image_uniqueguid
 					name="ui\skins\default\scroll_icon_up_hover.png"
-					uniqueguid="201B2832-87B1-49F6-9D96-81753EB540BA"/>
+					uniqueguid="51579F92-B10B-4940-80A1CD7A935C8F0A"/>
 				<component_image_uniqueguid
 					name="ui\skins\default\scroll_icon_up_inactive.png"
-					uniqueguid="169ADBC0-340A-434B-9808-1423E5929DBC"/>
+					uniqueguid="88D7226B-67FC-44C0-9ABF47250F9B0C76"/>
 			</component_image_uniqueguids>
 			<callbacks_with_context>
 				<callback_with_context callback_id="SliderDecrementButton"/>
@@ -60925,12 +60390,12 @@
 				<element value="ui\skins\default\scroll_icon_up_inactive.png"/>
 			</override_images>
 		</top>
-        <bottom
-			this="BFDBE765-3FA9-47B0-B123-26F7AFC77043"
+		<bottom
+			this="B4A1F0C6-B66D-4617-9A81-7DBC458B4026"
 			id="bottom"
 			part_of_template="true"
 			uniqueguid_in_template="E03D19EF-3D1B-4E8A-9E586679C5A66ABD"
-			uniqueguid="BFDBE765-3FA9-47B0-B123-26F7AFC77043"
+			uniqueguid="B4A1F0C6-B66D-4617-9A81-7DBC458B4026"
 			dimensions="22.00,22.00"
 			dock_point="Bottom Center External"
 			is_visible="false"
@@ -60940,45 +60405,45 @@
 			<state_uniqueguids>
 				<state_uniqueguid
 					name="active"
-					uniqueguid="D191135B-4E16-4426-BA12-399FFE9F84A2"/>
+					uniqueguid="F1FCF557-BAA1-43FC-B367F093EA4A32D8"/>
 				<state_uniqueguid
 					name="down"
-					uniqueguid="9F642561-D009-4589-AF0E-0CF166EA4B6D"/>
+					uniqueguid="91F0E35D-DC13-41B0-A37F1489C2AD9EDA"/>
 				<state_uniqueguid
 					name="down_off"
-					uniqueguid="53752AE3-85D7-4CC1-B3FF-9F11755F9EB2"/>
+					uniqueguid="9446B662-2461-4832-AB834362FF697503"/>
 				<state_uniqueguid
 					name="hover"
-					uniqueguid="A7ED80F7-6413-4D3A-8039-0EC294031E8C"/>
+					uniqueguid="929D012D-72FE-4A28-A164A20DD748542B"/>
 				<state_uniqueguid
 					name="inactive"
-					uniqueguid="1C9E181B-AAB6-4B3C-90DD-90389F99DF29"/>
+					uniqueguid="95486FAD-D498-4062-894F9F56ABAF98CE"/>
 			</state_uniqueguids>
 			<component_image_uniqueguids>
 				<component_image_uniqueguid
 					name="ui\skins\default\scrollbar_button_plate_active.png"
-					uniqueguid="31CDD689-E17A-499A-A584-61C4F7BE144B"/>
+					uniqueguid="CA63BE6E-DF34-4558-9B46C2EBB414F658"/>
 				<component_image_uniqueguid
 					name="ui\skins\default\scrollbar_button_plate_hover.png"
-					uniqueguid="2ED4AC2A-E897-4433-AB26-FFD813BB56C6"/>
+					uniqueguid="899CEE9C-3A8F-465A-999AA093475C13D5"/>
 				<component_image_uniqueguid
 					name="ui\skins\default\scrollbar_button_plate_inactive.png"
-					uniqueguid="0910266D-B97D-4F81-AE64-FA94A5F3AF07"/>
+					uniqueguid="0068BEF1-D50C-4B0D-812F38CAEE3B3CB6"/>
 				<component_image_uniqueguid
 					name="ui\skins\default\scrollbar_button_plate_pressed.png"
-					uniqueguid="B4A1FF39-6D95-4C41-9022-DDCF148081B4"/>
+					uniqueguid="19C501F7-7751-49D6-8A069F38706DAB9F"/>
 				<component_image_uniqueguid
 					name="ui\skins\default\scrollbar_button_plate_underlay.png"
-					uniqueguid="FFC622FA-EC21-45BB-9C7F-0549037131D6"/>
+					uniqueguid="4F2F5705-D623-4629-B347A342D4ED48E1"/>
 				<component_image_uniqueguid
 					name="ui\skins\default\scroll_icon_dawn_active.png"
-					uniqueguid="AFD41351-7DEA-4D91-BEEA-A5BA9F05D56E"/>
+					uniqueguid="BA56C583-BD55-49A8-80D18815ABC30F9D"/>
 				<component_image_uniqueguid
 					name="ui\skins\default\scroll_icon_dawn_hover.png"
-					uniqueguid="293C5A5E-6FEF-442D-A54A-D7A8553D6D7A"/>
+					uniqueguid="BF2E27CC-B27A-4D9D-8771E7A6815A2B6F"/>
 				<component_image_uniqueguid
 					name="ui\skins\default\scroll_icon_dawn_inactive.png"
-					uniqueguid="616431AC-2BEF-49C4-BC30-D8E3CD3FC936"/>
+					uniqueguid="96857059-2416-4682-BD36DE888B15A6F2"/>
 			</component_image_uniqueguids>
 			<callbacks_with_context>
 				<callback_with_context callback_id="SliderIncrementButton"/>
@@ -61010,5 +60475,120 @@
 				<element value="ui\skins\default\scroll_icon_dawn_inactive.png"/>
 			</override_images>
 		</bottom>
+		<unassigned_titles_holder
+			this="E10A725E-0903-4837-ACDAECF3CCA00267"
+			id="unassigned_titles_holder"
+			priority="40"
+			tooltipslocalised="true"
+			uniqueguid="E10A725E-0903-4837-ACDAECF3CCA00267"
+			currentstate="37503F20-7466-4584-A3CCF05EFB5768EB"
+			defaultstate="37503F20-7466-4584-A3CCF05EFB5768EB">
+			<callbackwithcontextlist>
+				<callback_with_context callback_id="CharacterAncillarySelectorTitles"/>
+			</callbackwithcontextlist>
+			<states>
+				<default
+					this="37503F20-7466-4584-A3CCF05EFB5768EB"
+					name="default"
+					width="460"
+					height="100"
+					texthbehaviour="Never split"
+					uniqueguid="37503F20-7466-4584-A3CCF05EFB5768EB"/>
+			</states>
+			<LayoutEngine
+				type="List"
+				sizetocontent="true"				
+				is_listview_lookup_enabled="false">
+				<columnwidths>
+					<column width="460"/>
+				</columnwidths>
+			</LayoutEngine>
+		</unassigned_titles_holder>
+		<unassigned_titles_list
+			this="89A9A0E5-4993-43E4-9369E0A77311C3D0"
+			id="unassigned_titles_list"
+			docking="Top Center"
+			priority="40"
+			tooltipslocalised="true"
+			uniqueguid="89A9A0E5-4993-43E4-9369E0A77311C3D0"
+			currentstate="38ACFCED-C28A-45DC-9CC45A2998605626"
+			defaultstate="38ACFCED-C28A-45DC-9CC45A2998605626">
+			<states>
+				<default
+					this="38ACFCED-C28A-45DC-9CC45A2998605626"
+					name="default"
+					width="460"
+					height="100"
+					texthbehaviour="Never split"
+					interactive="true"
+					uniqueguid="38ACFCED-C28A-45DC-9CC45A2998605626"/>
+			</states>
+			<LayoutEngine
+				type="List"
+				sizetocontent="true"
+				is_listview_lookup_enabled="false">
+				<columnwidths>
+					<column width="460"/>
+				</columnwidths>
+			</LayoutEngine>
+		</unassigned_titles_list>
+		<list_clip
+			this="BDC82D37-22B8-4E8C-B7AA61AA9215943A"
+			id="list_clip"
+			priority="40"
+			tooltipslocalised="true"
+			uniqueguid="BDC82D37-22B8-4E8C-B7AA61AA9215943A"
+			currentstate="7D0F1E4F-EEDF-4EC9-B3BF9C0633596014"
+			defaultstate="7D0F1E4F-EEDF-4EC9-B3BF9C0633596014">
+			<states>
+				<newstate
+					this="7D0F1E4F-EEDF-4EC9-B3BF9C0633596014"
+					name="NewState"
+					width="460"
+					height="100"
+					texthbehaviour="Never split"
+					interactive="true"
+					uniqueguid="7D0F1E4F-EEDF-4EC9-B3BF9C0633596014"/>
+			</states>
+			<LayoutEngine
+				type="List"
+				sizetocontent="true"
+				margins="10.00,10.00"
+				secondary_margins="5.00,5.00"	
+				is_listview_lookup_enabled="false">
+				<columnwidths>
+					<column width="460"/>
+				</columnwidths>
+			</LayoutEngine>
+		</list_clip>
+		<list_box
+			this="A4F2E700-C557-4B42-8A21FFE96B295F33"
+			id="list_box"
+			priority="40"
+			tooltipslocalised="true"
+			uniqueguid="A4F2E700-C557-4B42-8A21FFE96B295F33"
+			currentstate="216F99DB-07F1-44F4-AD3DB6F642CC6425"
+			defaultstate="216F99DB-07F1-44F4-AD3DB6F642CC6425">
+			<callbackwithcontextlist>
+				<callback_with_context callback_id="List"/>
+			</callbackwithcontextlist>
+			<states>
+				<newstate
+					this="216F99DB-07F1-44F4-AD3DB6F642CC6425"
+					name="NewState"
+					width="460"
+					height="100"
+					texthbehaviour="Never split"
+					interactive="true"
+					uniqueguid="216F99DB-07F1-44F4-AD3DB6F642CC6425"/>
+			</states>
+			<LayoutEngine
+				type="List"
+				sizetocontent="true"
+				spacing="10.00,5.00"
+				itemsperrow="5"
+				is_listview_lookup_enabled="false">
+			</LayoutEngine>
+		</list_box>
 	</components>
 </layout>
